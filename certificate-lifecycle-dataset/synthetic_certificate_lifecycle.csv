@@ -1,0 +1,1001 @@
+certificate_id,issue_date,expiry_date,status,revocation_date,api_endpoint,issuer,key_length,tls_version
+CERT-1000,04/06/2024,24/10/2025,revoked,06/08/2025,/api/v5/service18,PrimeCA,4096,TLS1.3
+CERT-1001,11/06/2024,16/05/2026,active,,/api/v1/service13,PrimeCA,2048,TLS1.2
+CERT-1002,07/02/2024,10/12/2025,active,,/api/v1/service6,UniCA,4096,TLS1.3
+CERT-1003,09/03/2024,17/10/2024,revoked,28/09/2024,/api/v5/service19,UniCA,3072,TLS1.3
+CERT-1004,27/03/2024,11/10/2024,revoked,18/07/2024,/api/v4/service23,NetSecure CA,2048,TLS1.2
+CERT-1005,10/03/2024,04/10/2024,revoked,05/08/2024,/api/v2/service32,UniCA,2048,TLS1.3
+CERT-1006,07/03/2024,31/12/2024,revoked,29/12/2024,/api/v2/service31,GlobalTrust CA,3072,TLS1.2
+CERT-1007,08/07/2024,08/03/2026,revoked,23/02/2026,/api/v2/service17,SecureSign CA,4096,TLS1.3
+CERT-1008,01/02/2024,05/10/2024,revoked,27/08/2024,/api/v2/service15,GlobalTrust CA,4096,TLS1.3
+CERT-1009,17/05/2024,04/01/2025,revoked,27/11/2024,/api/v4/service41,NetSecure CA,2048,TLS1.2
+CERT-1010,29/02/2024,21/11/2025,revoked,15/09/2025,/api/v1/service8,PrimeCA,4096,TLS1.3
+CERT-1011,12/03/2024,21/12/2024,active,,/api/v4/service44,UniCA,2048,TLS1.2
+CERT-1012,04/06/2024,10/08/2025,revoked,30/07/2025,/api/v3/service34,UniCA,4096,TLS1.3
+CERT-1013,13/02/2024,10/04/2025,revoked,27/01/2025,/api/v5/service34,GlobalTrust CA,2048,TLS1.2
+CERT-1014,05/01/2024,19/06/2025,revoked,21/04/2025,/api/v5/service34,NetSecure CA,4096,TLS1.2
+CERT-1015,25/04/2024,14/05/2025,revoked,12/05/2025,/api/v2/service27,PrimeCA,2048,TLS1.2
+CERT-1016,20/06/2024,06/05/2025,active,,/api/v3/service28,NetSecure CA,3072,TLS1.3
+CERT-1017,02/01/2024,07/07/2024,revoked,15/05/2024,/api/v3/service20,SecureSign CA,4096,TLS1.2
+CERT-1018,08/02/2024,31/01/2026,active,,/api/v3/service41,UniCA,2048,TLS1.3
+CERT-1019,02/04/2024,23/07/2025,revoked,03/05/2025,/api/v2/service5,UniCA,4096,TLS1.2
+CERT-1020,10/04/2024,23/11/2024,active,,/api/v2/service22,NetSecure CA,4096,TLS1.3
+CERT-1021,15/04/2024,22/05/2025,revoked,23/03/2025,/api/v5/service16,UniCA,3072,TLS1.2
+CERT-1022,14/07/2024,22/07/2025,active,,/api/v4/service30,SecureSign CA,4096,TLS1.2
+CERT-1023,29/04/2024,17/05/2025,revoked,18/02/2025,/api/v5/service20,NetSecure CA,4096,TLS1.2
+CERT-1024,31/03/2024,05/07/2025,active,,/api/v4/service39,GlobalTrust CA,2048,TLS1.2
+CERT-1025,12/05/2024,05/10/2025,revoked,21/08/2025,/api/v5/service38,GlobalTrust CA,3072,TLS1.3
+CERT-1026,26/05/2024,23/05/2026,active,,/api/v4/service43,UniCA,4096,TLS1.2
+CERT-1027,24/03/2024,07/01/2026,revoked,07/11/2025,/api/v1/service46,NetSecure CA,2048,TLS1.3
+CERT-1028,17/04/2024,06/03/2026,active,,/api/v3/service29,GlobalTrust CA,4096,TLS1.3
+CERT-1029,01/04/2024,17/12/2024,active,,/api/v4/service45,NetSecure CA,2048,TLS1.3
+CERT-1030,26/03/2024,11/12/2024,active,,/api/v3/service2,PrimeCA,2048,TLS1.2
+CERT-1031,07/04/2024,05/02/2026,revoked,16/12/2025,/api/v4/service39,PrimeCA,4096,TLS1.2
+CERT-1032,05/06/2024,15/12/2025,active,,/api/v3/service49,SecureSign CA,3072,TLS1.2
+CERT-1033,24/02/2024,07/12/2025,active,,/api/v3/service36,NetSecure CA,3072,TLS1.2
+CERT-1034,20/01/2024,08/10/2025,revoked,14/08/2025,/api/v3/service14,GlobalTrust CA,3072,TLS1.3
+CERT-1035,26/03/2024,17/04/2025,revoked,02/02/2025,/api/v3/service41,GlobalTrust CA,2048,TLS1.3
+CERT-1036,04/04/2024,15/07/2025,active,,/api/v3/service4,SecureSign CA,4096,TLS1.2
+CERT-1037,19/01/2024,26/10/2024,revoked,15/09/2024,/api/v5/service36,PrimeCA,2048,TLS1.3
+CERT-1038,13/01/2024,01/03/2025,active,,/api/v3/service10,GlobalTrust CA,3072,TLS1.2
+CERT-1039,21/05/2024,28/09/2025,revoked,16/09/2025,/api/v1/service3,PrimeCA,2048,TLS1.2
+CERT-1040,17/03/2024,08/11/2025,revoked,07/11/2025,/api/v3/service34,PrimeCA,3072,TLS1.2
+CERT-1041,12/05/2024,20/02/2026,revoked,25/01/2026,/api/v1/service36,PrimeCA,3072,TLS1.2
+CERT-1042,26/04/2024,02/03/2025,revoked,23/12/2024,/api/v1/service37,SecureSign CA,3072,TLS1.3
+CERT-1043,05/07/2024,18/04/2026,active,,/api/v5/service47,SecureSign CA,3072,TLS1.2
+CERT-1044,04/01/2024,12/12/2024,active,,/api/v4/service18,PrimeCA,4096,TLS1.3
+CERT-1045,09/06/2024,15/07/2025,active,,/api/v4/service35,UniCA,3072,TLS1.2
+CERT-1046,05/06/2024,14/01/2025,active,,/api/v5/service14,PrimeCA,3072,TLS1.2
+CERT-1047,01/04/2024,24/10/2024,revoked,22/08/2024,/api/v4/service13,GlobalTrust CA,2048,TLS1.3
+CERT-1048,02/03/2024,22/11/2025,active,,/api/v3/service19,GlobalTrust CA,3072,TLS1.3
+CERT-1049,23/01/2024,02/10/2024,active,,/api/v1/service12,UniCA,2048,TLS1.2
+CERT-1050,24/03/2024,15/03/2026,revoked,23/12/2025,/api/v3/service13,UniCA,2048,TLS1.3
+CERT-1051,20/02/2024,11/06/2025,revoked,11/05/2025,/api/v2/service46,PrimeCA,3072,TLS1.3
+CERT-1052,16/05/2024,07/02/2026,active,,/api/v3/service17,GlobalTrust CA,3072,TLS1.3
+CERT-1053,04/02/2024,14/09/2025,active,,/api/v4/service18,PrimeCA,2048,TLS1.2
+CERT-1054,04/03/2024,02/02/2026,revoked,18/01/2026,/api/v5/service8,UniCA,2048,TLS1.3
+CERT-1055,15/05/2024,26/06/2025,active,,/api/v3/service10,UniCA,2048,TLS1.2
+CERT-1056,03/03/2024,23/09/2024,active,,/api/v5/service29,PrimeCA,4096,TLS1.2
+CERT-1057,03/03/2024,09/02/2025,revoked,06/02/2025,/api/v2/service18,NetSecure CA,4096,TLS1.2
+CERT-1058,18/03/2024,06/11/2024,active,,/api/v2/service49,NetSecure CA,2048,TLS1.3
+CERT-1059,18/05/2024,21/02/2025,active,,/api/v3/service11,GlobalTrust CA,3072,TLS1.3
+CERT-1060,05/05/2024,10/12/2025,revoked,06/11/2025,/api/v1/service26,NetSecure CA,3072,TLS1.2
+CERT-1061,02/06/2024,09/04/2025,revoked,09/01/2025,/api/v1/service38,UniCA,3072,TLS1.2
+CERT-1062,31/01/2024,17/08/2024,revoked,06/08/2024,/api/v1/service43,SecureSign CA,4096,TLS1.2
+CERT-1063,13/01/2024,21/10/2025,active,,/api/v2/service20,NetSecure CA,4096,TLS1.3
+CERT-1064,11/06/2024,17/06/2025,revoked,02/04/2025,/api/v3/service25,UniCA,3072,TLS1.2
+CERT-1065,15/03/2024,27/10/2024,revoked,10/09/2024,/api/v1/service19,GlobalTrust CA,3072,TLS1.2
+CERT-1066,23/03/2024,10/06/2025,active,,/api/v2/service42,SecureSign CA,2048,TLS1.2
+CERT-1067,12/02/2024,24/01/2026,revoked,30/11/2025,/api/v5/service4,GlobalTrust CA,4096,TLS1.3
+CERT-1068,09/06/2024,24/07/2025,active,,/api/v5/service7,PrimeCA,2048,TLS1.3
+CERT-1069,10/07/2024,23/04/2025,revoked,23/01/2025,/api/v2/service7,NetSecure CA,3072,TLS1.3
+CERT-1070,03/07/2024,31/05/2025,active,,/api/v2/service25,SecureSign CA,3072,TLS1.3
+CERT-1071,25/03/2024,22/03/2026,active,,/api/v2/service43,GlobalTrust CA,2048,TLS1.2
+CERT-1072,14/02/2024,04/05/2025,revoked,20/03/2025,/api/v1/service49,PrimeCA,2048,TLS1.3
+CERT-1073,03/07/2024,27/03/2025,revoked,05/03/2025,/api/v3/service12,GlobalTrust CA,2048,TLS1.2
+CERT-1074,10/04/2024,08/05/2025,revoked,28/02/2025,/api/v3/service16,GlobalTrust CA,2048,TLS1.2
+CERT-1075,11/05/2024,26/04/2026,active,,/api/v2/service30,PrimeCA,3072,TLS1.3
+CERT-1076,01/04/2024,27/04/2025,revoked,15/04/2025,/api/v1/service44,GlobalTrust CA,4096,TLS1.3
+CERT-1077,12/04/2024,20/03/2025,revoked,07/01/2025,/api/v1/service40,PrimeCA,3072,TLS1.2
+CERT-1078,06/06/2024,28/02/2025,active,,/api/v2/service32,GlobalTrust CA,3072,TLS1.3
+CERT-1079,02/07/2024,05/02/2025,revoked,15/12/2024,/api/v2/service3,GlobalTrust CA,4096,TLS1.3
+CERT-1080,14/01/2024,09/11/2025,active,,/api/v5/service36,SecureSign CA,3072,TLS1.3
+CERT-1081,27/05/2024,27/04/2026,active,,/api/v2/service7,GlobalTrust CA,4096,TLS1.2
+CERT-1082,16/06/2024,25/12/2024,active,,/api/v4/service25,UniCA,4096,TLS1.2
+CERT-1083,18/02/2024,05/06/2025,active,,/api/v1/service17,GlobalTrust CA,3072,TLS1.3
+CERT-1084,08/06/2024,20/01/2025,revoked,11/11/2024,/api/v5/service2,UniCA,2048,TLS1.3
+CERT-1085,18/04/2024,25/08/2025,active,,/api/v5/service33,PrimeCA,2048,TLS1.3
+CERT-1086,21/04/2024,24/05/2025,revoked,09/05/2025,/api/v2/service6,UniCA,3072,TLS1.2
+CERT-1087,30/04/2024,22/11/2025,revoked,23/09/2025,/api/v4/service40,GlobalTrust CA,3072,TLS1.2
+CERT-1088,27/04/2024,28/11/2025,revoked,03/09/2025,/api/v3/service15,SecureSign CA,3072,TLS1.2
+CERT-1089,27/05/2024,24/01/2025,active,,/api/v1/service50,NetSecure CA,2048,TLS1.3
+CERT-1090,19/01/2024,21/05/2025,active,,/api/v3/service23,UniCA,3072,TLS1.3
+CERT-1091,30/05/2024,17/04/2026,revoked,11/02/2026,/api/v1/service2,UniCA,4096,TLS1.3
+CERT-1092,05/06/2024,27/05/2026,active,,/api/v1/service3,NetSecure CA,2048,TLS1.2
+CERT-1093,11/04/2024,25/02/2026,active,,/api/v4/service33,SecureSign CA,4096,TLS1.2
+CERT-1094,01/05/2024,25/03/2026,revoked,03/01/2026,/api/v5/service40,UniCA,2048,TLS1.3
+CERT-1095,03/03/2024,13/07/2025,active,,/api/v2/service22,UniCA,4096,TLS1.3
+CERT-1096,20/02/2024,06/04/2025,active,,/api/v2/service47,SecureSign CA,2048,TLS1.2
+CERT-1097,21/04/2024,05/07/2025,active,,/api/v4/service14,GlobalTrust CA,3072,TLS1.3
+CERT-1098,03/04/2024,28/11/2024,active,,/api/v1/service33,UniCA,3072,TLS1.2
+CERT-1099,13/03/2024,23/05/2025,active,,/api/v4/service37,UniCA,2048,TLS1.2
+CERT-1100,20/02/2024,05/12/2024,active,,/api/v1/service2,UniCA,4096,TLS1.3
+CERT-1101,30/01/2024,28/05/2025,active,,/api/v5/service44,GlobalTrust CA,2048,TLS1.3
+CERT-1102,02/03/2024,24/08/2025,revoked,05/06/2025,/api/v1/service7,GlobalTrust CA,3072,TLS1.2
+CERT-1103,03/03/2024,05/08/2025,active,,/api/v5/service29,PrimeCA,2048,TLS1.2
+CERT-1104,03/05/2024,13/09/2025,active,,/api/v4/service1,GlobalTrust CA,4096,TLS1.3
+CERT-1105,24/05/2024,09/01/2025,revoked,15/10/2024,/api/v1/service48,GlobalTrust CA,2048,TLS1.3
+CERT-1106,19/02/2024,12/04/2025,active,,/api/v1/service39,SecureSign CA,4096,TLS1.3
+CERT-1107,20/06/2024,22/07/2025,active,,/api/v4/service37,SecureSign CA,3072,TLS1.3
+CERT-1108,03/04/2024,31/01/2026,active,,/api/v5/service30,NetSecure CA,4096,TLS1.3
+CERT-1109,15/02/2024,28/06/2025,revoked,03/06/2025,/api/v2/service4,GlobalTrust CA,3072,TLS1.3
+CERT-1110,13/03/2024,17/04/2025,active,,/api/v3/service30,GlobalTrust CA,2048,TLS1.3
+CERT-1111,24/04/2024,23/03/2025,active,,/api/v1/service20,NetSecure CA,3072,TLS1.2
+CERT-1112,30/06/2024,25/04/2026,revoked,19/03/2026,/api/v1/service33,UniCA,2048,TLS1.3
+CERT-1113,26/03/2024,10/07/2025,active,,/api/v1/service8,GlobalTrust CA,3072,TLS1.3
+CERT-1114,12/04/2024,14/08/2025,active,,/api/v4/service29,SecureSign CA,2048,TLS1.2
+CERT-1115,07/01/2024,12/08/2025,active,,/api/v3/service1,UniCA,4096,TLS1.3
+CERT-1116,29/06/2024,06/04/2025,active,,/api/v3/service46,NetSecure CA,4096,TLS1.3
+CERT-1117,28/03/2024,31/12/2025,active,,/api/v1/service12,PrimeCA,2048,TLS1.2
+CERT-1118,01/02/2024,28/05/2025,active,,/api/v1/service22,PrimeCA,4096,TLS1.2
+CERT-1119,28/05/2024,13/05/2025,active,,/api/v1/service7,PrimeCA,3072,TLS1.3
+CERT-1120,11/05/2024,02/11/2025,active,,/api/v5/service9,UniCA,3072,TLS1.3
+CERT-1121,19/01/2024,12/05/2025,active,,/api/v2/service1,PrimeCA,2048,TLS1.2
+CERT-1122,22/05/2024,09/02/2026,active,,/api/v5/service5,SecureSign CA,4096,TLS1.3
+CERT-1123,23/04/2024,10/12/2024,active,,/api/v5/service49,SecureSign CA,2048,TLS1.3
+CERT-1124,13/05/2024,11/01/2026,revoked,02/01/2026,/api/v5/service16,PrimeCA,4096,TLS1.2
+CERT-1125,15/01/2024,14/12/2025,revoked,24/11/2025,/api/v3/service20,UniCA,2048,TLS1.3
+CERT-1126,11/05/2024,02/02/2025,revoked,06/11/2024,/api/v3/service17,UniCA,3072,TLS1.3
+CERT-1127,18/07/2024,05/10/2025,active,,/api/v3/service33,SecureSign CA,4096,TLS1.2
+CERT-1128,06/07/2024,18/07/2025,revoked,14/06/2025,/api/v5/service38,GlobalTrust CA,2048,TLS1.3
+CERT-1129,09/01/2024,01/09/2025,revoked,25/07/2025,/api/v2/service20,NetSecure CA,2048,TLS1.2
+CERT-1130,10/02/2024,14/03/2025,active,,/api/v2/service12,PrimeCA,3072,TLS1.3
+CERT-1131,16/06/2024,15/04/2026,active,,/api/v4/service23,NetSecure CA,2048,TLS1.3
+CERT-1132,08/03/2024,21/11/2024,active,,/api/v1/service50,SecureSign CA,2048,TLS1.2
+CERT-1133,05/01/2024,25/10/2024,revoked,01/08/2024,/api/v5/service27,NetSecure CA,3072,TLS1.3
+CERT-1134,30/03/2024,06/04/2025,active,,/api/v2/service1,PrimeCA,3072,TLS1.3
+CERT-1135,06/03/2024,21/01/2026,revoked,08/12/2025,/api/v5/service49,PrimeCA,3072,TLS1.3
+CERT-1136,04/01/2024,04/11/2024,revoked,09/09/2024,/api/v1/service43,UniCA,3072,TLS1.3
+CERT-1137,25/01/2024,05/01/2026,active,,/api/v2/service23,SecureSign CA,4096,TLS1.2
+CERT-1138,04/07/2024,01/05/2025,active,,/api/v2/service47,SecureSign CA,4096,TLS1.2
+CERT-1139,17/04/2024,22/12/2025,active,,/api/v2/service13,PrimeCA,4096,TLS1.3
+CERT-1140,25/04/2024,19/02/2025,active,,/api/v5/service28,SecureSign CA,3072,TLS1.3
+CERT-1141,05/03/2024,19/02/2025,revoked,25/12/2024,/api/v2/service31,UniCA,4096,TLS1.2
+CERT-1142,02/01/2024,08/07/2025,active,,/api/v5/service40,PrimeCA,3072,TLS1.3
+CERT-1143,24/02/2024,03/11/2024,revoked,24/10/2024,/api/v5/service7,PrimeCA,4096,TLS1.2
+CERT-1144,20/06/2024,07/08/2025,revoked,06/06/2025,/api/v1/service5,SecureSign CA,3072,TLS1.2
+CERT-1145,28/03/2024,19/01/2026,revoked,15/01/2026,/api/v3/service27,GlobalTrust CA,3072,TLS1.2
+CERT-1146,15/02/2024,11/09/2025,active,,/api/v2/service7,SecureSign CA,2048,TLS1.3
+CERT-1147,07/07/2024,23/09/2025,revoked,24/07/2025,/api/v2/service44,PrimeCA,3072,TLS1.2
+CERT-1148,10/03/2024,01/02/2025,active,,/api/v5/service33,SecureSign CA,3072,TLS1.3
+CERT-1149,02/02/2024,24/08/2024,active,,/api/v5/service49,PrimeCA,3072,TLS1.2
+CERT-1150,11/01/2024,29/10/2024,revoked,17/09/2024,/api/v2/service41,PrimeCA,2048,TLS1.3
+CERT-1151,29/03/2024,25/03/2025,active,,/api/v2/service43,UniCA,2048,TLS1.2
+CERT-1152,30/01/2024,18/09/2024,revoked,08/09/2024,/api/v1/service14,GlobalTrust CA,3072,TLS1.3
+CERT-1153,21/03/2024,11/02/2026,revoked,04/01/2026,/api/v5/service41,UniCA,2048,TLS1.3
+CERT-1154,03/06/2024,15/04/2025,revoked,02/02/2025,/api/v2/service18,PrimeCA,3072,TLS1.2
+CERT-1155,08/05/2024,25/02/2025,active,,/api/v2/service48,PrimeCA,2048,TLS1.2
+CERT-1156,10/02/2024,26/08/2024,revoked,10/06/2024,/api/v5/service1,UniCA,3072,TLS1.2
+CERT-1157,22/05/2024,26/01/2025,revoked,12/12/2024,/api/v4/service41,NetSecure CA,3072,TLS1.2
+CERT-1158,09/01/2024,19/04/2025,revoked,16/03/2025,/api/v1/service15,NetSecure CA,3072,TLS1.2
+CERT-1159,27/02/2024,22/12/2025,active,,/api/v3/service29,SecureSign CA,4096,TLS1.3
+CERT-1160,14/04/2024,11/05/2025,active,,/api/v4/service10,UniCA,3072,TLS1.2
+CERT-1161,21/04/2024,29/06/2025,revoked,03/04/2025,/api/v1/service16,UniCA,4096,TLS1.2
+CERT-1162,15/02/2024,26/12/2024,revoked,08/11/2024,/api/v2/service13,NetSecure CA,3072,TLS1.2
+CERT-1163,11/06/2024,21/01/2025,active,,/api/v2/service18,UniCA,3072,TLS1.3
+CERT-1164,23/04/2024,29/10/2024,revoked,05/08/2024,/api/v2/service30,UniCA,3072,TLS1.2
+CERT-1165,07/02/2024,18/01/2025,active,,/api/v3/service17,UniCA,3072,TLS1.3
+CERT-1166,11/04/2024,06/04/2026,revoked,21/01/2026,/api/v5/service47,PrimeCA,2048,TLS1.2
+CERT-1167,14/01/2024,04/08/2024,active,,/api/v2/service10,PrimeCA,3072,TLS1.3
+CERT-1168,12/07/2024,31/03/2025,revoked,12/01/2025,/api/v3/service5,UniCA,2048,TLS1.2
+CERT-1169,01/02/2024,17/12/2025,revoked,03/11/2025,/api/v5/service38,PrimeCA,3072,TLS1.2
+CERT-1170,20/02/2024,18/12/2024,revoked,22/10/2024,/api/v2/service20,GlobalTrust CA,2048,TLS1.2
+CERT-1171,14/01/2024,20/11/2024,active,,/api/v4/service45,UniCA,4096,TLS1.2
+CERT-1172,04/01/2024,23/12/2025,revoked,08/10/2025,/api/v3/service23,SecureSign CA,4096,TLS1.3
+CERT-1173,14/01/2024,06/08/2024,revoked,11/07/2024,/api/v3/service45,PrimeCA,2048,TLS1.2
+CERT-1174,04/04/2024,13/05/2025,revoked,25/03/2025,/api/v4/service49,NetSecure CA,4096,TLS1.3
+CERT-1175,14/05/2024,17/03/2026,active,,/api/v3/service29,UniCA,2048,TLS1.2
+CERT-1176,19/04/2024,18/01/2025,active,,/api/v4/service28,SecureSign CA,2048,TLS1.3
+CERT-1177,04/03/2024,23/01/2026,active,,/api/v2/service23,UniCA,2048,TLS1.2
+CERT-1178,24/02/2024,15/02/2026,active,,/api/v5/service13,NetSecure CA,3072,TLS1.3
+CERT-1179,24/05/2024,03/06/2025,revoked,30/04/2025,/api/v1/service20,PrimeCA,2048,TLS1.3
+CERT-1180,12/05/2024,04/10/2025,revoked,29/08/2025,/api/v5/service12,SecureSign CA,4096,TLS1.2
+CERT-1181,12/02/2024,21/09/2024,revoked,29/08/2024,/api/v5/service10,SecureSign CA,3072,TLS1.2
+CERT-1182,29/01/2024,04/09/2025,active,,/api/v3/service39,NetSecure CA,4096,TLS1.2
+CERT-1183,26/04/2024,23/03/2025,revoked,01/02/2025,/api/v4/service16,SecureSign CA,2048,TLS1.2
+CERT-1184,16/07/2024,07/04/2025,revoked,29/03/2025,/api/v2/service49,GlobalTrust CA,4096,TLS1.2
+CERT-1185,04/04/2024,08/09/2025,active,,/api/v4/service37,PrimeCA,4096,TLS1.3
+CERT-1186,14/01/2024,26/07/2024,revoked,22/05/2024,/api/v5/service3,PrimeCA,2048,TLS1.3
+CERT-1187,16/03/2024,30/09/2025,active,,/api/v2/service32,SecureSign CA,4096,TLS1.2
+CERT-1188,05/03/2024,06/12/2025,revoked,18/10/2025,/api/v5/service17,SecureSign CA,4096,TLS1.3
+CERT-1189,09/05/2024,08/01/2025,revoked,11/10/2024,/api/v2/service28,SecureSign CA,4096,TLS1.2
+CERT-1190,09/03/2024,13/08/2025,revoked,27/06/2025,/api/v5/service20,GlobalTrust CA,3072,TLS1.2
+CERT-1191,03/02/2024,08/01/2026,revoked,02/12/2025,/api/v1/service7,NetSecure CA,3072,TLS1.3
+CERT-1192,18/02/2024,15/04/2025,revoked,10/02/2025,/api/v3/service10,PrimeCA,2048,TLS1.2
+CERT-1193,16/05/2024,25/03/2026,revoked,12/01/2026,/api/v1/service50,NetSecure CA,4096,TLS1.3
+CERT-1194,24/05/2024,10/03/2025,active,,/api/v1/service42,PrimeCA,4096,TLS1.3
+CERT-1195,04/02/2024,21/01/2026,active,,/api/v5/service27,NetSecure CA,4096,TLS1.3
+CERT-1196,10/03/2024,28/11/2025,revoked,26/09/2025,/api/v2/service2,GlobalTrust CA,4096,TLS1.2
+CERT-1197,11/04/2024,11/02/2025,revoked,28/12/2024,/api/v3/service40,GlobalTrust CA,3072,TLS1.2
+CERT-1198,04/04/2024,14/10/2025,revoked,18/09/2025,/api/v3/service33,GlobalTrust CA,2048,TLS1.2
+CERT-1199,19/06/2024,30/03/2026,revoked,03/02/2026,/api/v3/service4,NetSecure CA,3072,TLS1.3
+CERT-1200,23/06/2024,31/01/2025,active,,/api/v2/service10,GlobalTrust CA,4096,TLS1.3
+CERT-1201,05/01/2024,02/09/2025,revoked,27/06/2025,/api/v1/service9,UniCA,3072,TLS1.3
+CERT-1202,13/07/2024,15/06/2026,revoked,30/04/2026,/api/v1/service24,PrimeCA,2048,TLS1.3
+CERT-1203,21/04/2024,21/03/2026,revoked,28/01/2026,/api/v1/service39,UniCA,2048,TLS1.2
+CERT-1204,27/06/2024,22/06/2025,active,,/api/v2/service34,GlobalTrust CA,4096,TLS1.3
+CERT-1205,20/06/2024,18/07/2025,revoked,09/05/2025,/api/v4/service39,UniCA,2048,TLS1.2
+CERT-1206,02/06/2024,10/04/2025,active,,/api/v3/service45,SecureSign CA,3072,TLS1.2
+CERT-1207,30/01/2024,02/06/2025,active,,/api/v1/service8,PrimeCA,4096,TLS1.2
+CERT-1208,21/01/2024,23/05/2025,active,,/api/v1/service8,PrimeCA,4096,TLS1.2
+CERT-1209,19/01/2024,22/09/2024,revoked,22/07/2024,/api/v5/service20,GlobalTrust CA,2048,TLS1.2
+CERT-1210,10/01/2024,15/07/2024,revoked,27/06/2024,/api/v3/service12,UniCA,3072,TLS1.2
+CERT-1211,18/04/2024,04/03/2026,active,,/api/v4/service2,NetSecure CA,2048,TLS1.2
+CERT-1212,08/04/2024,08/08/2025,active,,/api/v4/service17,GlobalTrust CA,3072,TLS1.2
+CERT-1213,01/01/2024,12/10/2024,active,,/api/v1/service12,PrimeCA,3072,TLS1.2
+CERT-1214,28/03/2024,18/11/2025,revoked,24/10/2025,/api/v3/service5,GlobalTrust CA,3072,TLS1.3
+CERT-1215,02/04/2024,11/03/2026,revoked,04/01/2026,/api/v3/service26,UniCA,4096,TLS1.2
+CERT-1216,26/02/2024,02/07/2025,active,,/api/v2/service41,GlobalTrust CA,3072,TLS1.3
+CERT-1217,28/02/2024,07/04/2025,revoked,08/02/2025,/api/v2/service8,NetSecure CA,3072,TLS1.3
+CERT-1218,30/04/2024,10/04/2026,active,,/api/v4/service20,SecureSign CA,2048,TLS1.2
+CERT-1219,27/01/2024,06/09/2024,revoked,31/07/2024,/api/v4/service11,UniCA,3072,TLS1.3
+CERT-1220,06/06/2024,05/10/2025,active,,/api/v3/service49,SecureSign CA,2048,TLS1.3
+CERT-1221,02/01/2024,28/07/2024,active,,/api/v3/service23,UniCA,2048,TLS1.3
+CERT-1222,31/03/2024,22/05/2025,revoked,09/04/2025,/api/v4/service43,NetSecure CA,2048,TLS1.2
+CERT-1223,10/03/2024,13/10/2025,revoked,22/08/2025,/api/v1/service19,SecureSign CA,4096,TLS1.2
+CERT-1224,27/06/2024,28/02/2025,active,,/api/v2/service34,UniCA,2048,TLS1.2
+CERT-1225,24/01/2024,26/06/2025,active,,/api/v4/service1,NetSecure CA,2048,TLS1.2
+CERT-1226,15/04/2024,27/02/2026,active,,/api/v1/service23,PrimeCA,2048,TLS1.3
+CERT-1227,19/03/2024,28/11/2025,revoked,14/09/2025,/api/v1/service24,UniCA,4096,TLS1.2
+CERT-1228,20/06/2024,01/05/2026,active,,/api/v3/service26,UniCA,3072,TLS1.3
+CERT-1229,12/07/2024,01/04/2025,revoked,10/02/2025,/api/v5/service44,NetSecure CA,4096,TLS1.2
+CERT-1230,10/02/2024,07/09/2025,active,,/api/v2/service15,PrimeCA,3072,TLS1.3
+CERT-1231,04/01/2024,19/11/2024,revoked,05/09/2024,/api/v2/service11,PrimeCA,2048,TLS1.2
+CERT-1232,28/06/2024,07/05/2025,active,,/api/v3/service22,GlobalTrust CA,3072,TLS1.2
+CERT-1233,29/04/2024,17/04/2026,active,,/api/v1/service49,GlobalTrust CA,4096,TLS1.2
+CERT-1234,14/02/2024,20/06/2025,active,,/api/v2/service28,SecureSign CA,4096,TLS1.2
+CERT-1235,25/06/2024,19/12/2025,active,,/api/v1/service7,UniCA,2048,TLS1.2
+CERT-1236,13/07/2024,19/12/2025,revoked,14/10/2025,/api/v3/service17,UniCA,2048,TLS1.2
+CERT-1237,31/05/2024,27/02/2026,active,,/api/v1/service22,PrimeCA,2048,TLS1.2
+CERT-1238,24/06/2024,19/03/2025,revoked,07/01/2025,/api/v1/service2,SecureSign CA,2048,TLS1.3
+CERT-1239,26/02/2024,11/11/2025,revoked,03/11/2025,/api/v1/service44,NetSecure CA,4096,TLS1.3
+CERT-1240,14/07/2024,02/01/2026,active,,/api/v2/service43,PrimeCA,4096,TLS1.2
+CERT-1241,04/01/2024,29/06/2025,active,,/api/v4/service34,PrimeCA,4096,TLS1.2
+CERT-1242,25/05/2024,08/02/2025,active,,/api/v2/service24,NetSecure CA,3072,TLS1.3
+CERT-1243,01/07/2024,20/11/2025,active,,/api/v3/service7,SecureSign CA,3072,TLS1.3
+CERT-1244,24/03/2024,18/03/2025,active,,/api/v1/service39,SecureSign CA,2048,TLS1.3
+CERT-1245,15/01/2024,05/02/2025,active,,/api/v5/service41,PrimeCA,2048,TLS1.2
+CERT-1246,02/01/2024,09/07/2024,active,,/api/v4/service45,NetSecure CA,3072,TLS1.3
+CERT-1247,15/01/2024,19/09/2024,revoked,09/08/2024,/api/v1/service18,NetSecure CA,2048,TLS1.2
+CERT-1248,14/03/2024,12/12/2024,revoked,15/10/2024,/api/v1/service42,UniCA,2048,TLS1.3
+CERT-1249,28/01/2024,12/08/2025,active,,/api/v3/service11,NetSecure CA,4096,TLS1.2
+CERT-1250,18/04/2024,02/06/2025,active,,/api/v4/service32,GlobalTrust CA,4096,TLS1.3
+CERT-1251,10/04/2024,02/01/2025,active,,/api/v4/service39,PrimeCA,4096,TLS1.3
+CERT-1252,21/06/2024,23/01/2025,active,,/api/v5/service38,GlobalTrust CA,4096,TLS1.2
+CERT-1253,20/01/2024,01/07/2025,active,,/api/v2/service45,GlobalTrust CA,3072,TLS1.3
+CERT-1254,08/04/2024,07/11/2024,active,,/api/v1/service1,GlobalTrust CA,4096,TLS1.2
+CERT-1255,21/02/2024,05/10/2024,revoked,10/09/2024,/api/v4/service50,PrimeCA,2048,TLS1.3
+CERT-1256,17/03/2024,24/12/2024,active,,/api/v1/service31,PrimeCA,4096,TLS1.3
+CERT-1257,14/06/2024,23/04/2026,revoked,02/04/2026,/api/v4/service49,PrimeCA,2048,TLS1.2
+CERT-1258,22/04/2024,22/08/2025,revoked,17/07/2025,/api/v3/service36,SecureSign CA,3072,TLS1.2
+CERT-1259,26/04/2024,10/12/2025,active,,/api/v5/service31,SecureSign CA,2048,TLS1.2
+CERT-1260,20/03/2024,04/01/2025,revoked,06/10/2024,/api/v3/service42,GlobalTrust CA,4096,TLS1.3
+CERT-1261,29/06/2024,14/07/2025,active,,/api/v3/service44,UniCA,4096,TLS1.3
+CERT-1262,09/03/2024,01/03/2026,active,,/api/v4/service48,UniCA,2048,TLS1.3
+CERT-1263,05/03/2024,14/05/2025,active,,/api/v1/service3,GlobalTrust CA,2048,TLS1.2
+CERT-1264,30/04/2024,28/04/2025,active,,/api/v5/service10,UniCA,3072,TLS1.2
+CERT-1265,24/01/2024,23/12/2025,active,,/api/v1/service43,UniCA,4096,TLS1.3
+CERT-1266,27/02/2024,30/10/2024,revoked,01/10/2024,/api/v1/service10,SecureSign CA,4096,TLS1.2
+CERT-1267,30/01/2024,11/06/2025,revoked,28/04/2025,/api/v5/service46,PrimeCA,4096,TLS1.3
+CERT-1268,14/03/2024,06/02/2025,active,,/api/v5/service28,NetSecure CA,2048,TLS1.3
+CERT-1269,29/02/2024,14/02/2025,active,,/api/v2/service48,GlobalTrust CA,4096,TLS1.3
+CERT-1270,06/01/2024,12/02/2025,active,,/api/v4/service17,NetSecure CA,3072,TLS1.2
+CERT-1271,04/05/2024,28/05/2025,revoked,16/03/2025,/api/v1/service13,NetSecure CA,4096,TLS1.2
+CERT-1272,13/02/2024,27/02/2025,active,,/api/v5/service13,UniCA,2048,TLS1.2
+CERT-1273,18/02/2024,23/09/2025,revoked,28/07/2025,/api/v3/service35,PrimeCA,4096,TLS1.2
+CERT-1274,09/02/2024,31/08/2025,active,,/api/v4/service28,PrimeCA,3072,TLS1.2
+CERT-1275,05/01/2024,02/02/2025,revoked,16/12/2024,/api/v4/service35,GlobalTrust CA,2048,TLS1.2
+CERT-1276,23/06/2024,31/12/2025,active,,/api/v5/service33,UniCA,4096,TLS1.2
+CERT-1277,31/01/2024,24/09/2024,revoked,12/09/2024,/api/v2/service38,PrimeCA,2048,TLS1.3
+CERT-1278,24/05/2024,16/11/2025,active,,/api/v4/service38,GlobalTrust CA,4096,TLS1.2
+CERT-1279,16/06/2024,30/05/2025,active,,/api/v2/service12,SecureSign CA,4096,TLS1.3
+CERT-1280,15/01/2024,15/10/2024,active,,/api/v4/service45,GlobalTrust CA,4096,TLS1.2
+CERT-1281,20/03/2024,15/10/2024,revoked,28/09/2024,/api/v2/service26,NetSecure CA,3072,TLS1.3
+CERT-1282,13/07/2024,02/11/2025,active,,/api/v5/service46,NetSecure CA,4096,TLS1.3
+CERT-1283,29/05/2024,25/01/2025,active,,/api/v1/service14,PrimeCA,4096,TLS1.3
+CERT-1284,04/06/2024,28/09/2025,active,,/api/v5/service43,NetSecure CA,3072,TLS1.2
+CERT-1285,31/01/2024,21/07/2025,active,,/api/v1/service15,UniCA,3072,TLS1.2
+CERT-1286,19/02/2024,28/05/2025,revoked,28/03/2025,/api/v2/service20,UniCA,3072,TLS1.2
+CERT-1287,13/05/2024,19/08/2025,active,,/api/v5/service22,UniCA,4096,TLS1.3
+CERT-1288,23/02/2024,06/09/2024,revoked,16/08/2024,/api/v4/service16,PrimeCA,2048,TLS1.2
+CERT-1289,13/04/2024,17/09/2025,revoked,06/07/2025,/api/v4/service33,UniCA,2048,TLS1.2
+CERT-1290,18/05/2024,12/05/2026,active,,/api/v3/service41,NetSecure CA,3072,TLS1.2
+CERT-1291,04/05/2024,10/06/2025,revoked,24/04/2025,/api/v5/service21,SecureSign CA,4096,TLS1.3
+CERT-1292,18/04/2024,06/04/2026,active,,/api/v3/service34,PrimeCA,3072,TLS1.2
+CERT-1293,19/03/2024,26/07/2025,active,,/api/v1/service36,NetSecure CA,3072,TLS1.3
+CERT-1294,29/06/2024,25/01/2026,revoked,02/01/2026,/api/v5/service28,NetSecure CA,2048,TLS1.2
+CERT-1295,07/05/2024,03/12/2025,revoked,20/11/2025,/api/v4/service32,NetSecure CA,3072,TLS1.3
+CERT-1296,08/04/2024,20/08/2025,active,,/api/v2/service10,UniCA,2048,TLS1.2
+CERT-1297,01/06/2024,17/05/2025,revoked,05/03/2025,/api/v2/service35,SecureSign CA,4096,TLS1.3
+CERT-1298,23/02/2024,13/09/2025,revoked,22/07/2025,/api/v1/service30,GlobalTrust CA,2048,TLS1.2
+CERT-1299,11/02/2024,17/02/2025,revoked,12/02/2025,/api/v3/service47,SecureSign CA,3072,TLS1.3
+CERT-1300,03/07/2024,10/10/2025,active,,/api/v5/service21,UniCA,4096,TLS1.2
+CERT-1301,15/04/2024,12/02/2026,revoked,28/01/2026,/api/v2/service30,GlobalTrust CA,3072,TLS1.2
+CERT-1302,05/02/2024,07/01/2026,active,,/api/v5/service10,PrimeCA,2048,TLS1.2
+CERT-1303,10/01/2024,07/02/2025,active,,/api/v4/service33,PrimeCA,3072,TLS1.3
+CERT-1304,11/01/2024,21/09/2025,revoked,22/08/2025,/api/v5/service4,PrimeCA,2048,TLS1.2
+CERT-1305,18/07/2024,31/05/2025,revoked,24/05/2025,/api/v4/service49,PrimeCA,2048,TLS1.3
+CERT-1306,23/01/2024,31/03/2025,revoked,19/03/2025,/api/v3/service31,UniCA,3072,TLS1.3
+CERT-1307,05/03/2024,19/12/2024,active,,/api/v5/service40,GlobalTrust CA,2048,TLS1.3
+CERT-1308,25/01/2024,11/03/2025,revoked,08/01/2025,/api/v1/service35,PrimeCA,4096,TLS1.3
+CERT-1309,30/01/2024,16/03/2025,active,,/api/v2/service37,PrimeCA,3072,TLS1.3
+CERT-1310,25/03/2024,22/09/2024,active,,/api/v4/service23,SecureSign CA,3072,TLS1.3
+CERT-1311,25/01/2024,19/01/2025,active,,/api/v5/service19,NetSecure CA,4096,TLS1.3
+CERT-1312,15/01/2024,23/03/2025,revoked,25/12/2024,/api/v3/service1,GlobalTrust CA,3072,TLS1.3
+CERT-1313,11/04/2024,13/01/2025,revoked,21/12/2024,/api/v5/service11,PrimeCA,3072,TLS1.3
+CERT-1314,14/04/2024,20/12/2024,active,,/api/v4/service21,PrimeCA,4096,TLS1.3
+CERT-1315,23/06/2024,14/01/2026,revoked,07/01/2026,/api/v5/service38,PrimeCA,3072,TLS1.3
+CERT-1316,18/01/2024,17/09/2024,active,,/api/v4/service10,UniCA,4096,TLS1.3
+CERT-1317,04/02/2024,25/08/2024,revoked,04/06/2024,/api/v2/service15,UniCA,4096,TLS1.2
+CERT-1318,09/02/2024,01/12/2024,revoked,25/09/2024,/api/v1/service39,SecureSign CA,3072,TLS1.3
+CERT-1319,21/03/2024,06/01/2026,revoked,05/01/2026,/api/v4/service31,NetSecure CA,3072,TLS1.2
+CERT-1320,04/04/2024,25/12/2025,active,,/api/v1/service16,UniCA,4096,TLS1.2
+CERT-1321,13/05/2024,14/11/2025,revoked,23/09/2025,/api/v4/service49,NetSecure CA,3072,TLS1.3
+CERT-1322,22/04/2024,24/01/2025,active,,/api/v2/service27,SecureSign CA,2048,TLS1.3
+CERT-1323,12/03/2024,03/01/2025,revoked,07/10/2024,/api/v2/service25,PrimeCA,3072,TLS1.2
+CERT-1324,02/02/2024,23/10/2025,active,,/api/v1/service4,NetSecure CA,4096,TLS1.3
+CERT-1325,05/02/2024,16/01/2026,revoked,24/12/2025,/api/v4/service8,GlobalTrust CA,3072,TLS1.3
+CERT-1326,14/04/2024,16/07/2025,revoked,24/06/2025,/api/v2/service8,SecureSign CA,2048,TLS1.3
+CERT-1327,10/04/2024,26/10/2024,active,,/api/v5/service12,SecureSign CA,4096,TLS1.3
+CERT-1328,11/05/2024,11/12/2025,revoked,06/11/2025,/api/v1/service4,UniCA,2048,TLS1.3
+CERT-1329,10/03/2024,31/07/2025,active,,/api/v2/service38,SecureSign CA,2048,TLS1.3
+CERT-1330,07/03/2024,25/12/2025,active,,/api/v5/service38,NetSecure CA,4096,TLS1.2
+CERT-1331,23/01/2024,13/12/2024,active,,/api/v5/service47,UniCA,3072,TLS1.3
+CERT-1332,20/01/2024,20/12/2024,revoked,13/12/2024,/api/v4/service38,UniCA,2048,TLS1.2
+CERT-1333,08/04/2024,26/12/2025,active,,/api/v1/service36,UniCA,2048,TLS1.2
+CERT-1334,31/05/2024,04/06/2025,revoked,29/05/2025,/api/v4/service32,SecureSign CA,3072,TLS1.3
+CERT-1335,30/05/2024,09/10/2025,active,,/api/v2/service25,PrimeCA,3072,TLS1.2
+CERT-1336,25/02/2024,31/10/2025,revoked,02/09/2025,/api/v5/service44,NetSecure CA,4096,TLS1.3
+CERT-1337,15/03/2024,22/11/2025,active,,/api/v4/service16,GlobalTrust CA,2048,TLS1.3
+CERT-1338,19/04/2024,28/07/2025,revoked,14/07/2025,/api/v4/service10,UniCA,2048,TLS1.3
+CERT-1339,15/01/2024,05/02/2025,active,,/api/v4/service42,PrimeCA,3072,TLS1.3
+CERT-1340,04/02/2024,06/02/2025,revoked,13/01/2025,/api/v5/service26,PrimeCA,3072,TLS1.2
+CERT-1341,25/02/2024,24/02/2025,revoked,23/12/2024,/api/v1/service13,GlobalTrust CA,4096,TLS1.3
+CERT-1342,19/06/2024,26/03/2026,revoked,16/01/2026,/api/v1/service9,NetSecure CA,4096,TLS1.2
+CERT-1343,24/04/2024,03/02/2026,revoked,06/01/2026,/api/v4/service36,GlobalTrust CA,3072,TLS1.3
+CERT-1344,21/05/2024,15/07/2025,revoked,01/06/2025,/api/v3/service9,GlobalTrust CA,3072,TLS1.2
+CERT-1345,12/07/2024,19/08/2025,active,,/api/v1/service14,GlobalTrust CA,2048,TLS1.3
+CERT-1346,07/05/2024,18/09/2025,revoked,28/07/2025,/api/v5/service1,UniCA,4096,TLS1.2
+CERT-1347,01/05/2024,09/01/2026,revoked,03/01/2026,/api/v4/service13,UniCA,3072,TLS1.3
+CERT-1348,11/07/2024,25/10/2025,active,,/api/v3/service15,NetSecure CA,2048,TLS1.3
+CERT-1349,27/01/2024,14/09/2024,revoked,25/08/2024,/api/v4/service43,PrimeCA,3072,TLS1.3
+CERT-1350,18/02/2024,16/11/2024,active,,/api/v5/service40,GlobalTrust CA,2048,TLS1.2
+CERT-1351,16/07/2024,13/02/2026,revoked,16/12/2025,/api/v3/service5,SecureSign CA,4096,TLS1.2
+CERT-1352,19/03/2024,08/01/2026,active,,/api/v2/service43,PrimeCA,3072,TLS1.3
+CERT-1353,28/01/2024,10/09/2025,active,,/api/v1/service7,PrimeCA,4096,TLS1.3
+CERT-1354,17/07/2024,11/12/2025,revoked,06/11/2025,/api/v5/service9,PrimeCA,3072,TLS1.2
+CERT-1355,13/01/2024,20/03/2025,revoked,27/01/2025,/api/v4/service27,GlobalTrust CA,2048,TLS1.3
+CERT-1356,17/07/2024,24/01/2026,revoked,03/12/2025,/api/v2/service13,GlobalTrust CA,3072,TLS1.2
+CERT-1357,09/05/2024,17/05/2025,revoked,30/04/2025,/api/v1/service24,NetSecure CA,2048,TLS1.3
+CERT-1358,02/02/2024,17/01/2025,active,,/api/v3/service46,SecureSign CA,4096,TLS1.3
+CERT-1359,20/04/2024,27/07/2025,revoked,24/05/2025,/api/v4/service18,PrimeCA,3072,TLS1.2
+CERT-1360,31/05/2024,15/04/2025,active,,/api/v3/service3,NetSecure CA,3072,TLS1.2
+CERT-1361,03/06/2024,26/04/2026,active,,/api/v3/service28,PrimeCA,3072,TLS1.3
+CERT-1362,02/03/2024,28/09/2024,active,,/api/v4/service43,GlobalTrust CA,3072,TLS1.3
+CERT-1363,18/03/2024,06/02/2025,active,,/api/v1/service16,SecureSign CA,4096,TLS1.3
+CERT-1364,26/02/2024,21/09/2025,active,,/api/v2/service34,GlobalTrust CA,2048,TLS1.3
+CERT-1365,24/02/2024,11/11/2024,active,,/api/v1/service8,NetSecure CA,4096,TLS1.2
+CERT-1366,23/01/2024,17/10/2025,revoked,13/09/2025,/api/v1/service17,SecureSign CA,3072,TLS1.2
+CERT-1367,11/04/2024,23/04/2025,active,,/api/v4/service28,PrimeCA,4096,TLS1.3
+CERT-1368,30/05/2024,04/12/2024,revoked,09/10/2024,/api/v1/service19,NetSecure CA,3072,TLS1.3
+CERT-1369,28/01/2024,29/12/2025,revoked,30/11/2025,/api/v5/service33,PrimeCA,4096,TLS1.3
+CERT-1370,02/06/2024,01/06/2025,active,,/api/v5/service44,SecureSign CA,2048,TLS1.3
+CERT-1371,06/05/2024,05/06/2025,active,,/api/v5/service3,GlobalTrust CA,3072,TLS1.2
+CERT-1372,04/04/2024,25/11/2024,active,,/api/v4/service26,PrimeCA,4096,TLS1.2
+CERT-1373,08/02/2024,15/11/2025,revoked,02/09/2025,/api/v3/service37,GlobalTrust CA,4096,TLS1.2
+CERT-1374,10/05/2024,25/03/2026,active,,/api/v2/service37,GlobalTrust CA,4096,TLS1.2
+CERT-1375,16/01/2024,03/02/2025,active,,/api/v2/service38,NetSecure CA,2048,TLS1.3
+CERT-1376,04/01/2024,15/12/2025,active,,/api/v4/service40,UniCA,2048,TLS1.2
+CERT-1377,06/05/2024,27/01/2026,active,,/api/v5/service35,NetSecure CA,4096,TLS1.2
+CERT-1378,17/03/2024,01/01/2025,active,,/api/v2/service41,GlobalTrust CA,2048,TLS1.2
+CERT-1379,19/04/2024,09/03/2026,active,,/api/v4/service17,GlobalTrust CA,2048,TLS1.3
+CERT-1380,25/01/2024,27/08/2024,active,,/api/v2/service3,NetSecure CA,4096,TLS1.2
+CERT-1381,20/02/2024,24/12/2024,active,,/api/v2/service50,UniCA,2048,TLS1.3
+CERT-1382,03/03/2024,21/02/2026,active,,/api/v1/service21,SecureSign CA,4096,TLS1.3
+CERT-1383,05/02/2024,27/11/2024,revoked,17/09/2024,/api/v3/service4,GlobalTrust CA,4096,TLS1.2
+CERT-1384,30/01/2024,27/09/2025,active,,/api/v2/service14,NetSecure CA,2048,TLS1.2
+CERT-1385,07/04/2024,11/04/2025,revoked,10/04/2025,/api/v1/service32,UniCA,4096,TLS1.3
+CERT-1386,19/06/2024,19/12/2024,revoked,30/10/2024,/api/v2/service27,GlobalTrust CA,4096,TLS1.3
+CERT-1387,21/01/2024,01/04/2025,active,,/api/v1/service33,SecureSign CA,3072,TLS1.2
+CERT-1388,08/05/2024,04/02/2026,revoked,02/02/2026,/api/v1/service26,GlobalTrust CA,4096,TLS1.3
+CERT-1389,27/01/2024,20/01/2025,active,,/api/v2/service46,GlobalTrust CA,3072,TLS1.2
+CERT-1390,22/02/2024,06/08/2025,active,,/api/v5/service10,UniCA,2048,TLS1.3
+CERT-1391,27/04/2024,11/11/2024,active,,/api/v3/service19,PrimeCA,4096,TLS1.2
+CERT-1392,08/03/2024,04/01/2025,revoked,01/01/2025,/api/v1/service38,GlobalTrust CA,3072,TLS1.3
+CERT-1393,21/03/2024,13/03/2025,active,,/api/v3/service40,SecureSign CA,2048,TLS1.3
+CERT-1394,16/03/2024,30/12/2025,revoked,03/11/2025,/api/v2/service19,UniCA,3072,TLS1.2
+CERT-1395,14/02/2024,12/07/2025,revoked,05/07/2025,/api/v2/service36,UniCA,2048,TLS1.2
+CERT-1396,01/05/2024,14/10/2025,revoked,06/08/2025,/api/v5/service7,NetSecure CA,4096,TLS1.2
+CERT-1397,25/06/2024,08/01/2026,active,,/api/v3/service47,UniCA,3072,TLS1.3
+CERT-1398,08/01/2024,27/12/2025,active,,/api/v5/service24,PrimeCA,4096,TLS1.3
+CERT-1399,21/02/2024,24/11/2024,active,,/api/v4/service35,SecureSign CA,3072,TLS1.2
+CERT-1400,24/02/2024,20/01/2026,revoked,18/12/2025,/api/v3/service21,GlobalTrust CA,2048,TLS1.3
+CERT-1401,18/02/2024,07/12/2024,revoked,11/11/2024,/api/v2/service26,SecureSign CA,3072,TLS1.2
+CERT-1402,15/06/2024,19/12/2024,revoked,22/11/2024,/api/v1/service7,SecureSign CA,4096,TLS1.3
+CERT-1403,25/06/2024,05/06/2026,revoked,30/05/2026,/api/v1/service36,NetSecure CA,2048,TLS1.3
+CERT-1404,28/04/2024,10/05/2025,active,,/api/v5/service31,NetSecure CA,3072,TLS1.3
+CERT-1405,11/02/2024,07/10/2025,active,,/api/v3/service12,UniCA,4096,TLS1.3
+CERT-1406,18/03/2024,10/06/2025,revoked,26/03/2025,/api/v1/service50,UniCA,2048,TLS1.3
+CERT-1407,04/02/2024,28/05/2025,revoked,12/03/2025,/api/v5/service1,UniCA,4096,TLS1.2
+CERT-1408,25/05/2024,23/12/2025,active,,/api/v2/service29,SecureSign CA,4096,TLS1.3
+CERT-1409,04/03/2024,07/12/2025,revoked,01/11/2025,/api/v1/service42,PrimeCA,3072,TLS1.3
+CERT-1410,17/06/2024,25/05/2025,revoked,26/02/2025,/api/v2/service19,NetSecure CA,3072,TLS1.2
+CERT-1411,27/05/2024,14/05/2026,revoked,12/04/2026,/api/v5/service45,UniCA,4096,TLS1.2
+CERT-1412,06/02/2024,29/09/2025,revoked,07/09/2025,/api/v2/service42,GlobalTrust CA,2048,TLS1.3
+CERT-1413,26/06/2024,27/06/2025,revoked,11/06/2025,/api/v1/service11,PrimeCA,2048,TLS1.2
+CERT-1414,10/02/2024,02/03/2025,active,,/api/v5/service10,UniCA,3072,TLS1.2
+CERT-1415,10/03/2024,13/06/2025,revoked,28/03/2025,/api/v5/service44,GlobalTrust CA,3072,TLS1.2
+CERT-1416,10/07/2024,03/06/2025,active,,/api/v1/service20,GlobalTrust CA,3072,TLS1.2
+CERT-1417,19/06/2024,11/01/2026,active,,/api/v1/service28,NetSecure CA,2048,TLS1.2
+CERT-1418,05/06/2024,04/03/2025,revoked,27/12/2024,/api/v2/service32,UniCA,2048,TLS1.2
+CERT-1419,28/06/2024,19/06/2026,revoked,16/05/2026,/api/v2/service45,NetSecure CA,3072,TLS1.3
+CERT-1420,21/01/2024,30/04/2025,active,,/api/v3/service10,NetSecure CA,2048,TLS1.3
+CERT-1421,20/06/2024,10/01/2026,active,,/api/v3/service43,SecureSign CA,3072,TLS1.3
+CERT-1422,19/03/2024,28/10/2024,active,,/api/v1/service43,UniCA,4096,TLS1.3
+CERT-1423,25/01/2024,21/09/2024,revoked,21/08/2024,/api/v4/service12,UniCA,4096,TLS1.2
+CERT-1424,30/03/2024,26/06/2025,active,,/api/v3/service15,GlobalTrust CA,3072,TLS1.2
+CERT-1425,20/04/2024,08/11/2025,active,,/api/v2/service8,PrimeCA,2048,TLS1.2
+CERT-1426,15/06/2024,20/03/2026,revoked,23/12/2025,/api/v3/service31,SecureSign CA,3072,TLS1.2
+CERT-1427,08/04/2024,03/01/2025,revoked,01/11/2024,/api/v2/service45,GlobalTrust CA,3072,TLS1.3
+CERT-1428,23/03/2024,29/01/2026,active,,/api/v1/service7,SecureSign CA,3072,TLS1.3
+CERT-1429,19/05/2024,17/01/2026,revoked,04/11/2025,/api/v5/service34,PrimeCA,4096,TLS1.2
+CERT-1430,29/05/2024,15/01/2026,active,,/api/v3/service46,PrimeCA,3072,TLS1.3
+CERT-1431,28/03/2024,13/07/2025,revoked,08/07/2025,/api/v2/service22,SecureSign CA,4096,TLS1.3
+CERT-1432,03/03/2024,11/03/2025,revoked,16/02/2025,/api/v2/service36,NetSecure CA,3072,TLS1.2
+CERT-1433,04/05/2024,18/12/2024,revoked,02/11/2024,/api/v3/service15,SecureSign CA,2048,TLS1.2
+CERT-1434,14/03/2024,23/06/2025,revoked,08/05/2025,/api/v1/service16,PrimeCA,4096,TLS1.3
+CERT-1435,01/06/2024,05/01/2026,revoked,07/12/2025,/api/v2/service18,SecureSign CA,2048,TLS1.2
+CERT-1436,12/03/2024,02/12/2024,active,,/api/v5/service50,PrimeCA,3072,TLS1.2
+CERT-1437,13/05/2024,26/03/2026,revoked,11/01/2026,/api/v1/service12,NetSecure CA,2048,TLS1.3
+CERT-1438,24/05/2024,05/04/2026,active,,/api/v2/service33,UniCA,4096,TLS1.2
+CERT-1439,14/04/2024,16/03/2025,revoked,23/12/2024,/api/v1/service2,UniCA,2048,TLS1.2
+CERT-1440,22/06/2024,08/03/2026,revoked,10/12/2025,/api/v4/service28,NetSecure CA,2048,TLS1.2
+CERT-1441,12/07/2024,23/01/2025,revoked,11/12/2024,/api/v2/service22,UniCA,2048,TLS1.3
+CERT-1442,17/04/2024,21/03/2025,active,,/api/v5/service35,NetSecure CA,3072,TLS1.3
+CERT-1443,04/07/2024,02/11/2025,active,,/api/v4/service31,PrimeCA,4096,TLS1.2
+CERT-1444,09/04/2024,05/01/2025,active,,/api/v5/service8,GlobalTrust CA,2048,TLS1.2
+CERT-1445,11/02/2024,26/09/2025,active,,/api/v1/service32,NetSecure CA,2048,TLS1.2
+CERT-1446,17/06/2024,11/01/2026,revoked,08/12/2025,/api/v2/service29,PrimeCA,4096,TLS1.2
+CERT-1447,31/01/2024,30/04/2025,active,,/api/v1/service43,NetSecure CA,2048,TLS1.3
+CERT-1448,19/02/2024,30/01/2026,active,,/api/v2/service33,SecureSign CA,2048,TLS1.2
+CERT-1449,30/04/2024,22/05/2025,active,,/api/v1/service32,SecureSign CA,4096,TLS1.3
+CERT-1450,10/02/2024,16/03/2025,active,,/api/v1/service6,UniCA,3072,TLS1.2
+CERT-1451,16/01/2024,28/05/2025,active,,/api/v2/service5,UniCA,2048,TLS1.3
+CERT-1452,12/05/2024,28/08/2025,revoked,27/07/2025,/api/v1/service29,GlobalTrust CA,4096,TLS1.2
+CERT-1453,06/05/2024,03/12/2024,active,,/api/v2/service38,NetSecure CA,4096,TLS1.3
+CERT-1454,23/04/2024,16/09/2025,revoked,11/07/2025,/api/v5/service41,NetSecure CA,2048,TLS1.3
+CERT-1455,14/02/2024,15/08/2024,revoked,25/05/2024,/api/v4/service2,UniCA,3072,TLS1.2
+CERT-1456,25/06/2024,30/07/2025,revoked,22/05/2025,/api/v5/service45,SecureSign CA,2048,TLS1.2
+CERT-1457,28/04/2024,04/01/2025,revoked,30/10/2024,/api/v1/service33,SecureSign CA,2048,TLS1.3
+CERT-1458,23/03/2024,21/12/2024,active,,/api/v2/service22,GlobalTrust CA,3072,TLS1.2
+CERT-1459,09/03/2024,23/07/2025,active,,/api/v2/service18,SecureSign CA,2048,TLS1.3
+CERT-1460,29/05/2024,15/01/2026,active,,/api/v3/service17,GlobalTrust CA,2048,TLS1.2
+CERT-1461,19/03/2024,13/08/2025,active,,/api/v5/service31,UniCA,2048,TLS1.3
+CERT-1462,28/05/2024,30/11/2024,active,,/api/v4/service38,GlobalTrust CA,3072,TLS1.2
+CERT-1463,19/01/2024,12/08/2025,active,,/api/v5/service44,PrimeCA,3072,TLS1.3
+CERT-1464,27/04/2024,16/10/2025,active,,/api/v3/service25,PrimeCA,2048,TLS1.3
+CERT-1465,01/07/2024,27/07/2025,revoked,30/05/2025,/api/v3/service14,GlobalTrust CA,4096,TLS1.3
+CERT-1466,13/03/2024,04/11/2025,active,,/api/v1/service38,NetSecure CA,4096,TLS1.3
+CERT-1467,10/05/2024,06/03/2026,revoked,13/02/2026,/api/v3/service44,SecureSign CA,4096,TLS1.3
+CERT-1468,25/02/2024,09/01/2025,revoked,18/11/2024,/api/v4/service9,SecureSign CA,2048,TLS1.2
+CERT-1469,12/07/2024,26/12/2025,revoked,30/09/2025,/api/v3/service15,SecureSign CA,2048,TLS1.3
+CERT-1470,01/04/2024,13/04/2025,active,,/api/v5/service39,NetSecure CA,2048,TLS1.3
+CERT-1471,01/02/2024,15/11/2024,revoked,25/10/2024,/api/v2/service49,UniCA,2048,TLS1.3
+CERT-1472,14/01/2024,28/02/2025,active,,/api/v3/service50,NetSecure CA,4096,TLS1.3
+CERT-1473,19/07/2024,31/05/2026,revoked,14/05/2026,/api/v4/service48,PrimeCA,2048,TLS1.3
+CERT-1474,07/02/2024,17/10/2024,revoked,06/08/2024,/api/v4/service47,GlobalTrust CA,3072,TLS1.3
+CERT-1475,11/07/2024,30/09/2025,revoked,10/08/2025,/api/v5/service14,UniCA,3072,TLS1.2
+CERT-1476,02/01/2024,12/02/2025,active,,/api/v1/service17,UniCA,2048,TLS1.2
+CERT-1477,08/07/2024,23/05/2025,revoked,10/03/2025,/api/v2/service25,GlobalTrust CA,3072,TLS1.2
+CERT-1478,02/06/2024,31/03/2025,revoked,21/01/2025,/api/v3/service47,UniCA,4096,TLS1.3
+CERT-1479,16/02/2024,20/08/2024,active,,/api/v5/service17,UniCA,3072,TLS1.3
+CERT-1480,21/05/2024,14/06/2025,revoked,19/04/2025,/api/v4/service41,PrimeCA,4096,TLS1.3
+CERT-1481,12/06/2024,03/04/2026,active,,/api/v1/service5,UniCA,2048,TLS1.3
+CERT-1482,30/06/2024,10/03/2025,active,,/api/v4/service15,GlobalTrust CA,4096,TLS1.3
+CERT-1483,10/03/2024,10/12/2024,active,,/api/v2/service44,NetSecure CA,2048,TLS1.2
+CERT-1484,03/06/2024,14/04/2026,revoked,03/03/2026,/api/v4/service45,PrimeCA,2048,TLS1.2
+CERT-1485,27/03/2024,27/02/2025,active,,/api/v2/service34,UniCA,4096,TLS1.3
+CERT-1486,03/06/2024,07/11/2025,active,,/api/v3/service34,SecureSign CA,4096,TLS1.2
+CERT-1487,26/02/2024,07/02/2025,active,,/api/v3/service25,UniCA,3072,TLS1.3
+CERT-1488,20/06/2024,10/06/2025,revoked,25/04/2025,/api/v5/service35,SecureSign CA,3072,TLS1.3
+CERT-1489,18/07/2024,05/06/2025,revoked,07/04/2025,/api/v1/service27,NetSecure CA,3072,TLS1.3
+CERT-1490,17/04/2024,04/09/2025,active,,/api/v5/service26,SecureSign CA,3072,TLS1.3
+CERT-1491,12/07/2024,20/10/2025,active,,/api/v5/service33,PrimeCA,4096,TLS1.3
+CERT-1492,04/07/2024,06/05/2025,active,,/api/v1/service33,SecureSign CA,3072,TLS1.2
+CERT-1493,03/01/2024,23/12/2025,active,,/api/v3/service50,GlobalTrust CA,2048,TLS1.2
+CERT-1494,19/07/2024,20/04/2025,active,,/api/v2/service6,PrimeCA,2048,TLS1.2
+CERT-1495,30/05/2024,11/05/2025,active,,/api/v1/service42,PrimeCA,3072,TLS1.3
+CERT-1496,09/01/2024,07/12/2024,active,,/api/v3/service41,PrimeCA,2048,TLS1.2
+CERT-1497,06/01/2024,19/03/2025,revoked,03/03/2025,/api/v4/service39,SecureSign CA,4096,TLS1.2
+CERT-1498,23/03/2024,08/01/2025,active,,/api/v2/service39,PrimeCA,3072,TLS1.3
+CERT-1499,08/04/2024,25/03/2026,revoked,14/02/2026,/api/v1/service47,UniCA,2048,TLS1.3
+CERT-1500,09/06/2024,17/04/2025,revoked,19/02/2025,/api/v4/service6,PrimeCA,4096,TLS1.3
+CERT-1501,10/07/2024,14/07/2025,active,,/api/v3/service29,SecureSign CA,2048,TLS1.3
+CERT-1502,22/01/2024,04/03/2025,revoked,19/02/2025,/api/v3/service2,GlobalTrust CA,2048,TLS1.2
+CERT-1503,10/07/2024,08/01/2025,revoked,20/11/2024,/api/v5/service42,SecureSign CA,3072,TLS1.3
+CERT-1504,01/01/2024,10/01/2025,active,,/api/v1/service6,NetSecure CA,2048,TLS1.2
+CERT-1505,17/05/2024,06/01/2025,active,,/api/v4/service13,GlobalTrust CA,3072,TLS1.2
+CERT-1506,20/04/2024,02/01/2026,active,,/api/v1/service16,GlobalTrust CA,3072,TLS1.3
+CERT-1507,22/03/2024,18/10/2024,active,,/api/v1/service25,GlobalTrust CA,2048,TLS1.2
+CERT-1508,24/05/2024,28/03/2026,active,,/api/v4/service7,NetSecure CA,3072,TLS1.3
+CERT-1509,09/01/2024,27/01/2025,revoked,07/01/2025,/api/v5/service22,PrimeCA,2048,TLS1.3
+CERT-1510,01/02/2024,30/09/2025,revoked,14/07/2025,/api/v4/service30,GlobalTrust CA,2048,TLS1.3
+CERT-1511,09/05/2024,06/06/2025,revoked,30/04/2025,/api/v2/service3,NetSecure CA,3072,TLS1.3
+CERT-1512,07/06/2024,21/09/2025,active,,/api/v2/service39,GlobalTrust CA,4096,TLS1.2
+CERT-1513,16/04/2024,13/02/2025,revoked,20/01/2025,/api/v4/service46,UniCA,3072,TLS1.2
+CERT-1514,13/06/2024,27/07/2025,active,,/api/v4/service10,NetSecure CA,2048,TLS1.2
+CERT-1515,16/05/2024,24/05/2025,revoked,06/03/2025,/api/v2/service38,PrimeCA,3072,TLS1.3
+CERT-1516,01/06/2024,10/12/2025,revoked,30/10/2025,/api/v2/service7,GlobalTrust CA,4096,TLS1.3
+CERT-1517,18/03/2024,17/09/2025,active,,/api/v2/service16,GlobalTrust CA,2048,TLS1.3
+CERT-1518,08/05/2024,23/04/2026,active,,/api/v5/service13,GlobalTrust CA,2048,TLS1.2
+CERT-1519,24/01/2024,02/12/2025,active,,/api/v2/service16,NetSecure CA,2048,TLS1.2
+CERT-1520,20/03/2024,10/12/2024,active,,/api/v5/service24,SecureSign CA,2048,TLS1.3
+CERT-1521,08/05/2024,07/08/2025,active,,/api/v5/service48,GlobalTrust CA,2048,TLS1.2
+CERT-1522,29/05/2024,29/05/2025,active,,/api/v4/service21,PrimeCA,3072,TLS1.3
+CERT-1523,29/01/2024,19/12/2025,revoked,23/11/2025,/api/v3/service35,NetSecure CA,2048,TLS1.3
+CERT-1524,05/02/2024,31/08/2024,revoked,01/07/2024,/api/v2/service50,SecureSign CA,3072,TLS1.3
+CERT-1525,03/05/2024,18/03/2025,active,,/api/v3/service23,NetSecure CA,3072,TLS1.2
+CERT-1526,04/06/2024,25/10/2025,revoked,06/08/2025,/api/v3/service50,NetSecure CA,2048,TLS1.3
+CERT-1527,17/04/2024,07/05/2025,active,,/api/v2/service18,SecureSign CA,4096,TLS1.3
+CERT-1528,16/07/2024,24/05/2026,revoked,28/04/2026,/api/v4/service48,GlobalTrust CA,4096,TLS1.3
+CERT-1529,09/06/2024,26/12/2025,revoked,04/12/2025,/api/v2/service39,NetSecure CA,3072,TLS1.3
+CERT-1530,27/02/2024,26/09/2024,revoked,11/07/2024,/api/v5/service22,SecureSign CA,2048,TLS1.2
+CERT-1531,21/01/2024,08/10/2025,active,,/api/v4/service26,PrimeCA,3072,TLS1.3
+CERT-1532,02/03/2024,01/04/2025,active,,/api/v3/service36,GlobalTrust CA,2048,TLS1.2
+CERT-1533,06/01/2024,28/01/2025,active,,/api/v4/service14,SecureSign CA,2048,TLS1.2
+CERT-1534,09/02/2024,06/08/2025,revoked,21/07/2025,/api/v1/service33,GlobalTrust CA,4096,TLS1.2
+CERT-1535,04/04/2024,26/01/2026,active,,/api/v3/service40,SecureSign CA,2048,TLS1.2
+CERT-1536,12/07/2024,18/04/2025,revoked,25/02/2025,/api/v3/service31,SecureSign CA,4096,TLS1.3
+CERT-1537,19/03/2024,30/07/2025,active,,/api/v5/service20,GlobalTrust CA,3072,TLS1.2
+CERT-1538,20/03/2024,17/02/2025,revoked,21/12/2024,/api/v2/service10,SecureSign CA,4096,TLS1.3
+CERT-1539,02/01/2024,20/10/2025,revoked,12/08/2025,/api/v3/service14,SecureSign CA,4096,TLS1.2
+CERT-1540,24/02/2024,19/02/2025,active,,/api/v5/service32,UniCA,3072,TLS1.2
+CERT-1541,16/06/2024,15/01/2026,active,,/api/v2/service25,PrimeCA,3072,TLS1.2
+CERT-1542,10/05/2024,17/08/2025,revoked,18/06/2025,/api/v5/service47,SecureSign CA,3072,TLS1.2
+CERT-1543,24/04/2024,12/11/2024,active,,/api/v3/service24,GlobalTrust CA,2048,TLS1.3
+CERT-1544,11/05/2024,31/03/2025,revoked,12/03/2025,/api/v5/service36,SecureSign CA,3072,TLS1.2
+CERT-1545,22/04/2024,26/12/2025,active,,/api/v4/service41,PrimeCA,4096,TLS1.2
+CERT-1546,25/06/2024,03/03/2025,active,,/api/v1/service32,UniCA,3072,TLS1.2
+CERT-1547,15/05/2024,26/03/2025,active,,/api/v5/service36,UniCA,2048,TLS1.3
+CERT-1548,29/03/2024,17/08/2025,revoked,11/07/2025,/api/v3/service46,PrimeCA,3072,TLS1.2
+CERT-1549,12/01/2024,29/01/2025,revoked,05/12/2024,/api/v4/service32,SecureSign CA,3072,TLS1.3
+CERT-1550,29/01/2024,08/06/2025,active,,/api/v2/service2,NetSecure CA,3072,TLS1.3
+CERT-1551,21/06/2024,21/03/2025,revoked,02/01/2025,/api/v1/service43,GlobalTrust CA,4096,TLS1.2
+CERT-1552,01/03/2024,04/02/2025,active,,/api/v5/service15,UniCA,4096,TLS1.2
+CERT-1553,08/01/2024,29/10/2024,active,,/api/v1/service47,SecureSign CA,4096,TLS1.3
+CERT-1554,24/01/2024,11/12/2025,active,,/api/v4/service25,NetSecure CA,2048,TLS1.3
+CERT-1555,22/05/2024,11/12/2024,revoked,07/12/2024,/api/v3/service50,SecureSign CA,4096,TLS1.2
+CERT-1556,04/07/2024,15/03/2025,active,,/api/v5/service23,SecureSign CA,4096,TLS1.2
+CERT-1557,04/01/2024,06/06/2025,active,,/api/v1/service18,PrimeCA,4096,TLS1.2
+CERT-1558,08/05/2024,28/02/2025,active,,/api/v4/service50,GlobalTrust CA,3072,TLS1.2
+CERT-1559,06/07/2024,19/03/2025,active,,/api/v1/service37,UniCA,4096,TLS1.3
+CERT-1560,02/04/2024,04/11/2024,active,,/api/v4/service9,NetSecure CA,3072,TLS1.3
+CERT-1561,26/05/2024,24/08/2025,active,,/api/v2/service15,GlobalTrust CA,2048,TLS1.2
+CERT-1562,10/03/2024,04/04/2025,revoked,07/02/2025,/api/v5/service20,PrimeCA,4096,TLS1.3
+CERT-1563,01/04/2024,03/08/2025,revoked,15/07/2025,/api/v3/service18,SecureSign CA,4096,TLS1.3
+CERT-1564,25/02/2024,16/09/2025,revoked,28/08/2025,/api/v3/service4,NetSecure CA,4096,TLS1.2
+CERT-1565,29/03/2024,18/07/2025,active,,/api/v1/service7,UniCA,3072,TLS1.3
+CERT-1566,01/05/2024,25/04/2025,active,,/api/v5/service26,UniCA,3072,TLS1.2
+CERT-1567,20/03/2024,12/03/2026,revoked,07/03/2026,/api/v5/service9,GlobalTrust CA,2048,TLS1.3
+CERT-1568,05/05/2024,11/11/2024,active,,/api/v5/service29,NetSecure CA,3072,TLS1.3
+CERT-1569,22/06/2024,06/04/2026,revoked,17/03/2026,/api/v3/service40,SecureSign CA,2048,TLS1.3
+CERT-1570,15/02/2024,21/12/2025,active,,/api/v1/service5,NetSecure CA,4096,TLS1.2
+CERT-1571,22/02/2024,08/11/2024,active,,/api/v2/service14,NetSecure CA,3072,TLS1.3
+CERT-1572,17/06/2024,10/04/2026,active,,/api/v3/service33,GlobalTrust CA,3072,TLS1.2
+CERT-1573,08/03/2024,01/10/2025,active,,/api/v5/service15,NetSecure CA,2048,TLS1.3
+CERT-1574,16/07/2024,26/09/2025,revoked,16/08/2025,/api/v4/service7,NetSecure CA,4096,TLS1.3
+CERT-1575,11/01/2024,26/01/2025,active,,/api/v4/service35,GlobalTrust CA,2048,TLS1.2
+CERT-1576,16/04/2024,09/03/2026,active,,/api/v5/service42,UniCA,2048,TLS1.2
+CERT-1577,05/04/2024,05/11/2025,revoked,24/08/2025,/api/v1/service39,GlobalTrust CA,4096,TLS1.3
+CERT-1578,30/05/2024,23/01/2025,revoked,05/01/2025,/api/v4/service41,UniCA,3072,TLS1.3
+CERT-1579,25/05/2024,02/03/2025,revoked,21/12/2024,/api/v5/service15,GlobalTrust CA,3072,TLS1.2
+CERT-1580,15/02/2024,09/11/2025,active,,/api/v4/service50,SecureSign CA,2048,TLS1.3
+CERT-1581,04/06/2024,11/08/2025,revoked,04/07/2025,/api/v5/service19,PrimeCA,3072,TLS1.2
+CERT-1582,14/03/2024,16/12/2024,revoked,31/10/2024,/api/v4/service40,UniCA,2048,TLS1.3
+CERT-1583,25/05/2024,30/06/2025,revoked,27/04/2025,/api/v3/service26,GlobalTrust CA,4096,TLS1.2
+CERT-1584,18/04/2024,26/01/2026,active,,/api/v5/service32,GlobalTrust CA,3072,TLS1.2
+CERT-1585,10/07/2024,28/11/2025,active,,/api/v4/service12,UniCA,2048,TLS1.2
+CERT-1586,03/03/2024,29/10/2025,active,,/api/v2/service25,UniCA,4096,TLS1.3
+CERT-1587,29/06/2024,27/05/2026,active,,/api/v2/service7,UniCA,2048,TLS1.3
+CERT-1588,13/07/2024,13/10/2025,active,,/api/v3/service1,NetSecure CA,3072,TLS1.2
+CERT-1589,12/04/2024,08/08/2025,active,,/api/v2/service32,GlobalTrust CA,3072,TLS1.2
+CERT-1590,12/05/2024,13/01/2026,revoked,07/12/2025,/api/v4/service29,SecureSign CA,3072,TLS1.2
+CERT-1591,22/03/2024,10/02/2026,revoked,26/11/2025,/api/v3/service16,SecureSign CA,4096,TLS1.3
+CERT-1592,20/03/2024,02/01/2026,revoked,27/10/2025,/api/v2/service8,UniCA,4096,TLS1.2
+CERT-1593,06/07/2024,15/06/2026,revoked,10/04/2026,/api/v5/service1,SecureSign CA,4096,TLS1.3
+CERT-1594,03/06/2024,09/12/2024,active,,/api/v2/service49,GlobalTrust CA,3072,TLS1.2
+CERT-1595,17/01/2024,22/08/2025,active,,/api/v4/service2,SecureSign CA,3072,TLS1.2
+CERT-1596,18/03/2024,23/02/2026,revoked,30/12/2025,/api/v2/service14,SecureSign CA,4096,TLS1.3
+CERT-1597,22/02/2024,09/11/2024,active,,/api/v4/service15,UniCA,2048,TLS1.2
+CERT-1598,20/06/2024,25/12/2024,active,,/api/v5/service4,GlobalTrust CA,4096,TLS1.2
+CERT-1599,01/06/2024,15/04/2026,revoked,12/03/2026,/api/v1/service48,UniCA,4096,TLS1.2
+CERT-1600,18/05/2024,12/01/2026,revoked,26/11/2025,/api/v4/service11,NetSecure CA,3072,TLS1.2
+CERT-1601,07/04/2024,06/11/2025,active,,/api/v3/service46,SecureSign CA,3072,TLS1.3
+CERT-1602,14/04/2024,18/01/2026,active,,/api/v3/service25,NetSecure CA,4096,TLS1.2
+CERT-1603,10/07/2024,01/07/2026,revoked,20/05/2026,/api/v5/service49,SecureSign CA,2048,TLS1.2
+CERT-1604,21/06/2024,06/09/2025,active,,/api/v1/service48,GlobalTrust CA,4096,TLS1.2
+CERT-1605,07/04/2024,29/12/2025,active,,/api/v4/service9,GlobalTrust CA,3072,TLS1.3
+CERT-1606,14/05/2024,07/12/2024,revoked,21/11/2024,/api/v3/service10,SecureSign CA,2048,TLS1.2
+CERT-1607,18/02/2024,22/09/2025,active,,/api/v4/service12,NetSecure CA,2048,TLS1.3
+CERT-1608,27/01/2024,21/10/2025,active,,/api/v1/service19,PrimeCA,2048,TLS1.2
+CERT-1609,15/04/2024,09/08/2025,active,,/api/v1/service28,GlobalTrust CA,4096,TLS1.3
+CERT-1610,16/05/2024,23/03/2026,revoked,21/02/2026,/api/v1/service48,SecureSign CA,3072,TLS1.3
+CERT-1611,22/03/2024,26/04/2025,active,,/api/v5/service43,SecureSign CA,4096,TLS1.2
+CERT-1612,30/05/2024,25/02/2026,active,,/api/v3/service5,NetSecure CA,3072,TLS1.3
+CERT-1613,19/01/2024,21/06/2025,active,,/api/v2/service34,SecureSign CA,3072,TLS1.3
+CERT-1614,28/06/2024,14/07/2025,active,,/api/v1/service23,NetSecure CA,2048,TLS1.3
+CERT-1615,03/01/2024,05/09/2024,revoked,26/07/2024,/api/v4/service29,UniCA,2048,TLS1.2
+CERT-1616,18/06/2024,16/06/2026,active,,/api/v4/service32,SecureSign CA,3072,TLS1.2
+CERT-1617,20/01/2024,10/11/2025,active,,/api/v4/service6,UniCA,3072,TLS1.3
+CERT-1618,14/06/2024,24/06/2025,revoked,15/05/2025,/api/v3/service10,NetSecure CA,2048,TLS1.3
+CERT-1619,09/01/2024,11/08/2024,revoked,03/06/2024,/api/v3/service42,SecureSign CA,3072,TLS1.2
+CERT-1620,23/02/2024,26/07/2025,revoked,13/06/2025,/api/v2/service9,PrimeCA,2048,TLS1.3
+CERT-1621,08/04/2024,04/01/2026,revoked,15/10/2025,/api/v5/service46,GlobalTrust CA,4096,TLS1.2
+CERT-1622,08/06/2024,24/11/2025,active,,/api/v3/service46,GlobalTrust CA,2048,TLS1.2
+CERT-1623,23/01/2024,08/11/2025,revoked,08/09/2025,/api/v4/service8,SecureSign CA,2048,TLS1.3
+CERT-1624,12/01/2024,15/01/2025,revoked,17/12/2024,/api/v1/service18,NetSecure CA,3072,TLS1.2
+CERT-1625,13/07/2024,28/02/2026,active,,/api/v3/service9,GlobalTrust CA,4096,TLS1.3
+CERT-1626,24/02/2024,23/11/2024,active,,/api/v1/service29,UniCA,3072,TLS1.3
+CERT-1627,19/06/2024,29/10/2025,active,,/api/v3/service1,GlobalTrust CA,4096,TLS1.3
+CERT-1628,02/05/2024,27/03/2025,revoked,28/02/2025,/api/v3/service8,UniCA,4096,TLS1.3
+CERT-1629,06/06/2024,22/01/2026,active,,/api/v2/service45,PrimeCA,2048,TLS1.2
+CERT-1630,03/06/2024,18/07/2025,active,,/api/v4/service42,SecureSign CA,3072,TLS1.2
+CERT-1631,30/03/2024,03/07/2025,revoked,05/05/2025,/api/v3/service9,GlobalTrust CA,3072,TLS1.3
+CERT-1632,28/04/2024,10/06/2025,active,,/api/v3/service1,PrimeCA,2048,TLS1.2
+CERT-1633,13/06/2024,27/10/2025,active,,/api/v4/service18,SecureSign CA,2048,TLS1.3
+CERT-1634,27/06/2024,11/05/2026,revoked,02/03/2026,/api/v3/service48,PrimeCA,2048,TLS1.3
+CERT-1635,17/01/2024,11/06/2025,active,,/api/v4/service35,GlobalTrust CA,4096,TLS1.2
+CERT-1636,06/06/2024,22/05/2026,revoked,02/03/2026,/api/v4/service27,PrimeCA,4096,TLS1.2
+CERT-1637,07/04/2024,30/03/2025,revoked,21/03/2025,/api/v4/service20,UniCA,4096,TLS1.3
+CERT-1638,26/01/2024,31/10/2024,revoked,03/10/2024,/api/v4/service26,PrimeCA,2048,TLS1.3
+CERT-1639,14/02/2024,14/09/2024,active,,/api/v2/service44,GlobalTrust CA,3072,TLS1.3
+CERT-1640,13/02/2024,08/01/2025,revoked,12/11/2024,/api/v5/service5,PrimeCA,4096,TLS1.3
+CERT-1641,17/05/2024,01/02/2025,revoked,21/11/2024,/api/v1/service1,NetSecure CA,3072,TLS1.3
+CERT-1642,22/06/2024,03/05/2025,active,,/api/v4/service32,NetSecure CA,3072,TLS1.2
+CERT-1643,12/07/2024,16/11/2025,active,,/api/v5/service47,GlobalTrust CA,2048,TLS1.2
+CERT-1644,17/06/2024,20/12/2025,revoked,26/11/2025,/api/v3/service36,UniCA,4096,TLS1.3
+CERT-1645,21/04/2024,06/01/2026,revoked,21/11/2025,/api/v5/service47,UniCA,4096,TLS1.2
+CERT-1646,17/03/2024,06/02/2025,active,,/api/v5/service48,SecureSign CA,2048,TLS1.3
+CERT-1647,09/01/2024,29/04/2025,active,,/api/v5/service4,NetSecure CA,2048,TLS1.2
+CERT-1648,06/01/2024,15/11/2025,revoked,28/10/2025,/api/v4/service5,NetSecure CA,4096,TLS1.2
+CERT-1649,07/06/2024,03/01/2025,active,,/api/v2/service36,UniCA,3072,TLS1.2
+CERT-1650,13/06/2024,11/09/2025,revoked,14/07/2025,/api/v2/service42,UniCA,4096,TLS1.2
+CERT-1651,25/06/2024,16/05/2026,active,,/api/v1/service41,SecureSign CA,2048,TLS1.2
+CERT-1652,26/03/2024,30/09/2025,revoked,24/07/2025,/api/v2/service46,GlobalTrust CA,3072,TLS1.3
+CERT-1653,05/03/2024,21/03/2025,revoked,03/03/2025,/api/v2/service37,SecureSign CA,4096,TLS1.3
+CERT-1654,26/06/2024,13/10/2025,active,,/api/v2/service6,NetSecure CA,4096,TLS1.2
+CERT-1655,24/04/2024,04/07/2025,active,,/api/v4/service44,UniCA,4096,TLS1.3
+CERT-1656,02/07/2024,16/04/2025,active,,/api/v4/service8,UniCA,3072,TLS1.2
+CERT-1657,15/02/2024,01/09/2024,active,,/api/v4/service30,SecureSign CA,3072,TLS1.3
+CERT-1658,28/03/2024,16/07/2025,active,,/api/v4/service23,PrimeCA,3072,TLS1.2
+CERT-1659,18/06/2024,15/11/2025,revoked,18/08/2025,/api/v3/service36,PrimeCA,4096,TLS1.3
+CERT-1660,21/02/2024,28/12/2024,active,,/api/v4/service11,SecureSign CA,3072,TLS1.3
+CERT-1661,18/04/2024,23/05/2025,active,,/api/v5/service13,NetSecure CA,4096,TLS1.2
+CERT-1662,06/02/2024,01/02/2026,active,,/api/v3/service39,PrimeCA,4096,TLS1.2
+CERT-1663,19/01/2024,18/08/2025,revoked,26/07/2025,/api/v2/service10,GlobalTrust CA,2048,TLS1.2
+CERT-1664,24/01/2024,16/01/2026,active,,/api/v2/service50,GlobalTrust CA,3072,TLS1.2
+CERT-1665,04/03/2024,31/10/2024,active,,/api/v1/service25,UniCA,4096,TLS1.3
+CERT-1666,31/01/2024,16/12/2024,active,,/api/v5/service41,UniCA,2048,TLS1.2
+CERT-1667,10/06/2024,12/07/2025,revoked,28/04/2025,/api/v3/service22,SecureSign CA,3072,TLS1.3
+CERT-1668,18/05/2024,22/04/2026,active,,/api/v2/service21,GlobalTrust CA,2048,TLS1.3
+CERT-1669,15/02/2024,08/03/2025,active,,/api/v3/service40,PrimeCA,4096,TLS1.3
+CERT-1670,27/05/2024,13/03/2025,revoked,17/01/2025,/api/v1/service43,SecureSign CA,4096,TLS1.3
+CERT-1671,09/06/2024,16/12/2024,active,,/api/v5/service34,UniCA,4096,TLS1.3
+CERT-1672,26/04/2024,05/02/2026,revoked,15/12/2025,/api/v5/service24,PrimeCA,4096,TLS1.3
+CERT-1673,06/05/2024,01/11/2025,active,,/api/v4/service32,PrimeCA,3072,TLS1.2
+CERT-1674,02/02/2024,30/08/2024,active,,/api/v2/service8,SecureSign CA,2048,TLS1.3
+CERT-1675,31/03/2024,27/09/2024,active,,/api/v2/service40,GlobalTrust CA,3072,TLS1.3
+CERT-1676,28/01/2024,03/10/2025,active,,/api/v5/service27,GlobalTrust CA,4096,TLS1.2
+CERT-1677,13/06/2024,12/09/2025,revoked,11/07/2025,/api/v4/service30,PrimeCA,2048,TLS1.2
+CERT-1678,11/06/2024,01/01/2025,active,,/api/v4/service41,UniCA,3072,TLS1.3
+CERT-1679,16/03/2024,04/01/2025,active,,/api/v3/service20,SecureSign CA,4096,TLS1.3
+CERT-1680,02/06/2024,01/07/2025,active,,/api/v2/service37,PrimeCA,2048,TLS1.3
+CERT-1681,14/03/2024,21/01/2026,active,,/api/v4/service5,SecureSign CA,3072,TLS1.3
+CERT-1682,01/03/2024,17/01/2025,active,,/api/v4/service12,GlobalTrust CA,2048,TLS1.2
+CERT-1683,28/05/2024,27/05/2026,active,,/api/v5/service24,GlobalTrust CA,3072,TLS1.2
+CERT-1684,12/06/2024,16/01/2026,revoked,19/10/2025,/api/v1/service21,UniCA,4096,TLS1.3
+CERT-1685,28/02/2024,23/02/2025,revoked,06/02/2025,/api/v3/service6,SecureSign CA,2048,TLS1.3
+CERT-1686,02/01/2024,17/06/2025,active,,/api/v3/service33,GlobalTrust CA,3072,TLS1.2
+CERT-1687,07/03/2024,13/09/2025,active,,/api/v2/service18,GlobalTrust CA,4096,TLS1.2
+CERT-1688,29/02/2024,26/02/2026,revoked,25/12/2025,/api/v4/service13,SecureSign CA,3072,TLS1.3
+CERT-1689,02/01/2024,05/12/2024,active,,/api/v5/service38,SecureSign CA,2048,TLS1.3
+CERT-1690,23/03/2024,21/05/2025,active,,/api/v3/service23,GlobalTrust CA,4096,TLS1.2
+CERT-1691,09/04/2024,04/08/2025,revoked,16/05/2025,/api/v4/service19,GlobalTrust CA,4096,TLS1.2
+CERT-1692,18/06/2024,28/05/2025,revoked,24/04/2025,/api/v3/service14,SecureSign CA,2048,TLS1.2
+CERT-1693,04/02/2024,05/11/2024,active,,/api/v5/service18,PrimeCA,2048,TLS1.3
+CERT-1694,07/07/2024,20/05/2026,revoked,02/05/2026,/api/v5/service43,GlobalTrust CA,4096,TLS1.2
+CERT-1695,22/03/2024,24/11/2025,revoked,28/09/2025,/api/v5/service23,UniCA,3072,TLS1.3
+CERT-1696,11/05/2024,26/12/2024,revoked,23/10/2024,/api/v4/service25,NetSecure CA,3072,TLS1.2
+CERT-1697,16/02/2024,29/10/2024,revoked,01/09/2024,/api/v2/service48,GlobalTrust CA,3072,TLS1.3
+CERT-1698,11/03/2024,22/11/2024,active,,/api/v3/service3,GlobalTrust CA,3072,TLS1.3
+CERT-1699,28/03/2024,18/12/2025,revoked,09/12/2025,/api/v1/service22,SecureSign CA,4096,TLS1.3
+CERT-1700,16/05/2024,02/09/2025,revoked,30/07/2025,/api/v4/service42,NetSecure CA,4096,TLS1.3
+CERT-1701,24/06/2024,14/12/2025,revoked,15/09/2025,/api/v4/service43,UniCA,3072,TLS1.2
+CERT-1702,18/05/2024,14/12/2025,active,,/api/v2/service5,GlobalTrust CA,4096,TLS1.3
+CERT-1703,06/07/2024,03/05/2025,active,,/api/v4/service48,NetSecure CA,3072,TLS1.3
+CERT-1704,24/01/2024,28/07/2024,active,,/api/v5/service30,UniCA,2048,TLS1.2
+CERT-1705,18/07/2024,09/04/2026,active,,/api/v2/service11,PrimeCA,3072,TLS1.2
+CERT-1706,26/04/2024,19/05/2025,active,,/api/v2/service17,PrimeCA,3072,TLS1.3
+CERT-1707,14/04/2024,30/10/2024,active,,/api/v5/service50,SecureSign CA,3072,TLS1.2
+CERT-1708,06/03/2024,28/06/2025,active,,/api/v5/service14,GlobalTrust CA,4096,TLS1.3
+CERT-1709,29/03/2024,05/09/2025,revoked,15/06/2025,/api/v4/service23,UniCA,2048,TLS1.3
+CERT-1710,11/05/2024,16/12/2024,active,,/api/v5/service34,GlobalTrust CA,4096,TLS1.2
+CERT-1711,09/02/2024,09/01/2026,active,,/api/v1/service21,GlobalTrust CA,4096,TLS1.2
+CERT-1712,24/06/2024,22/01/2025,revoked,24/10/2024,/api/v3/service29,SecureSign CA,3072,TLS1.2
+CERT-1713,18/07/2024,05/08/2025,active,,/api/v4/service19,GlobalTrust CA,3072,TLS1.3
+CERT-1714,24/03/2024,22/01/2026,revoked,28/11/2025,/api/v3/service47,UniCA,2048,TLS1.2
+CERT-1715,04/02/2024,05/04/2025,active,,/api/v4/service1,GlobalTrust CA,4096,TLS1.3
+CERT-1716,30/05/2024,13/03/2026,active,,/api/v5/service44,UniCA,3072,TLS1.3
+CERT-1717,09/01/2024,16/04/2025,active,,/api/v1/service5,SecureSign CA,4096,TLS1.2
+CERT-1718,22/05/2024,22/12/2024,revoked,21/11/2024,/api/v4/service26,NetSecure CA,2048,TLS1.2
+CERT-1719,04/03/2024,04/12/2024,revoked,15/09/2024,/api/v2/service18,GlobalTrust CA,4096,TLS1.2
+CERT-1720,03/02/2024,24/04/2025,revoked,03/04/2025,/api/v3/service41,NetSecure CA,2048,TLS1.3
+CERT-1721,26/01/2024,31/12/2025,active,,/api/v2/service26,SecureSign CA,2048,TLS1.2
+CERT-1722,02/05/2024,15/02/2026,active,,/api/v3/service22,GlobalTrust CA,4096,TLS1.2
+CERT-1723,18/03/2024,22/07/2025,active,,/api/v2/service41,PrimeCA,2048,TLS1.3
+CERT-1724,08/01/2024,08/09/2025,revoked,03/09/2025,/api/v1/service12,NetSecure CA,4096,TLS1.3
+CERT-1725,04/03/2024,26/12/2024,revoked,17/11/2024,/api/v1/service23,PrimeCA,4096,TLS1.2
+CERT-1726,08/04/2024,14/11/2024,active,,/api/v2/service48,UniCA,2048,TLS1.3
+CERT-1727,16/05/2024,07/12/2024,active,,/api/v2/service12,PrimeCA,2048,TLS1.3
+CERT-1728,10/02/2024,20/10/2025,active,,/api/v1/service46,NetSecure CA,4096,TLS1.2
+CERT-1729,06/02/2024,11/10/2024,active,,/api/v2/service7,PrimeCA,2048,TLS1.3
+CERT-1730,17/06/2024,05/07/2025,revoked,24/04/2025,/api/v4/service7,GlobalTrust CA,4096,TLS1.2
+CERT-1731,24/02/2024,27/04/2025,revoked,26/02/2025,/api/v4/service32,GlobalTrust CA,2048,TLS1.2
+CERT-1732,08/03/2024,25/12/2024,active,,/api/v5/service39,SecureSign CA,3072,TLS1.2
+CERT-1733,04/03/2024,18/03/2025,active,,/api/v4/service2,UniCA,2048,TLS1.2
+CERT-1734,15/04/2024,09/09/2025,active,,/api/v1/service1,GlobalTrust CA,2048,TLS1.3
+CERT-1735,15/06/2024,20/09/2025,revoked,11/08/2025,/api/v3/service29,UniCA,4096,TLS1.3
+CERT-1736,08/04/2024,17/04/2025,active,,/api/v4/service34,PrimeCA,2048,TLS1.2
+CERT-1737,21/03/2024,22/12/2024,active,,/api/v2/service32,UniCA,4096,TLS1.3
+CERT-1738,13/04/2024,13/06/2025,revoked,26/05/2025,/api/v1/service16,GlobalTrust CA,2048,TLS1.3
+CERT-1739,19/02/2024,10/02/2025,active,,/api/v2/service13,SecureSign CA,4096,TLS1.2
+CERT-1740,28/05/2024,20/01/2026,active,,/api/v4/service45,PrimeCA,2048,TLS1.2
+CERT-1741,31/01/2024,07/12/2024,revoked,06/10/2024,/api/v5/service2,GlobalTrust CA,2048,TLS1.3
+CERT-1742,26/02/2024,03/05/2025,active,,/api/v3/service33,PrimeCA,2048,TLS1.2
+CERT-1743,27/04/2024,20/01/2026,revoked,27/10/2025,/api/v5/service37,NetSecure CA,4096,TLS1.2
+CERT-1744,25/04/2024,09/04/2026,active,,/api/v4/service35,NetSecure CA,3072,TLS1.2
+CERT-1745,26/03/2024,18/01/2026,active,,/api/v1/service13,PrimeCA,4096,TLS1.3
+CERT-1746,05/03/2024,19/05/2025,revoked,16/05/2025,/api/v1/service46,UniCA,2048,TLS1.2
+CERT-1747,10/02/2024,11/11/2024,revoked,09/11/2024,/api/v5/service43,UniCA,2048,TLS1.2
+CERT-1748,04/04/2024,18/01/2025,active,,/api/v3/service1,SecureSign CA,2048,TLS1.3
+CERT-1749,01/02/2024,24/11/2024,active,,/api/v5/service16,SecureSign CA,4096,TLS1.3
+CERT-1750,07/05/2024,07/09/2025,revoked,27/06/2025,/api/v2/service13,UniCA,4096,TLS1.2
+CERT-1751,31/05/2024,25/06/2025,active,,/api/v2/service32,UniCA,3072,TLS1.2
+CERT-1752,11/01/2024,01/10/2025,revoked,16/08/2025,/api/v4/service35,NetSecure CA,4096,TLS1.2
+CERT-1753,22/05/2024,26/04/2026,active,,/api/v4/service38,UniCA,4096,TLS1.2
+CERT-1754,23/04/2024,24/01/2025,revoked,17/11/2024,/api/v5/service15,GlobalTrust CA,4096,TLS1.3
+CERT-1755,10/05/2024,24/10/2025,active,,/api/v5/service41,GlobalTrust CA,3072,TLS1.2
+CERT-1756,08/07/2024,24/09/2025,active,,/api/v1/service33,UniCA,3072,TLS1.3
+CERT-1757,22/06/2024,27/03/2026,revoked,26/01/2026,/api/v4/service37,NetSecure CA,3072,TLS1.3
+CERT-1758,08/02/2024,06/12/2024,active,,/api/v5/service5,UniCA,3072,TLS1.3
+CERT-1759,09/06/2024,27/09/2025,active,,/api/v3/service41,NetSecure CA,4096,TLS1.2
+CERT-1760,14/06/2024,05/03/2026,active,,/api/v5/service20,NetSecure CA,2048,TLS1.3
+CERT-1761,22/03/2024,06/01/2025,active,,/api/v4/service36,PrimeCA,2048,TLS1.2
+CERT-1762,08/04/2024,30/07/2025,revoked,09/07/2025,/api/v4/service19,UniCA,2048,TLS1.3
+CERT-1763,24/01/2024,09/12/2025,revoked,08/11/2025,/api/v3/service14,NetSecure CA,4096,TLS1.2
+CERT-1764,14/07/2024,22/08/2025,active,,/api/v2/service24,GlobalTrust CA,2048,TLS1.3
+CERT-1765,21/04/2024,22/03/2025,active,,/api/v5/service43,NetSecure CA,3072,TLS1.3
+CERT-1766,26/04/2024,20/11/2025,active,,/api/v1/service45,PrimeCA,4096,TLS1.3
+CERT-1767,23/01/2024,15/09/2024,revoked,30/07/2024,/api/v1/service9,NetSecure CA,3072,TLS1.3
+CERT-1768,09/02/2024,15/10/2024,active,,/api/v1/service48,NetSecure CA,3072,TLS1.3
+CERT-1769,07/05/2024,11/08/2025,active,,/api/v5/service16,PrimeCA,2048,TLS1.3
+CERT-1770,20/03/2024,17/09/2024,active,,/api/v4/service4,SecureSign CA,4096,TLS1.3
+CERT-1771,28/05/2024,28/12/2024,revoked,07/11/2024,/api/v1/service17,NetSecure CA,3072,TLS1.3
+CERT-1772,15/05/2024,17/01/2025,revoked,30/12/2024,/api/v2/service50,UniCA,3072,TLS1.2
+CERT-1773,04/07/2024,25/02/2025,revoked,13/01/2025,/api/v5/service46,UniCA,3072,TLS1.3
+CERT-1774,24/01/2024,20/04/2025,active,,/api/v5/service17,PrimeCA,2048,TLS1.2
+CERT-1775,05/05/2024,30/01/2026,revoked,13/11/2025,/api/v3/service21,SecureSign CA,3072,TLS1.3
+CERT-1776,25/04/2024,08/05/2025,active,,/api/v5/service17,PrimeCA,4096,TLS1.3
+CERT-1777,10/07/2024,26/04/2025,revoked,11/02/2025,/api/v3/service37,UniCA,3072,TLS1.3
+CERT-1778,26/03/2024,06/12/2025,revoked,01/12/2025,/api/v3/service5,GlobalTrust CA,3072,TLS1.2
+CERT-1779,05/04/2024,04/01/2026,active,,/api/v5/service30,NetSecure CA,3072,TLS1.2
+CERT-1780,25/03/2024,29/07/2025,active,,/api/v1/service14,SecureSign CA,3072,TLS1.2
+CERT-1781,23/01/2024,03/12/2024,revoked,15/10/2024,/api/v5/service46,NetSecure CA,2048,TLS1.3
+CERT-1782,24/06/2024,03/02/2026,revoked,26/12/2025,/api/v3/service38,GlobalTrust CA,2048,TLS1.2
+CERT-1783,05/05/2024,22/12/2024,active,,/api/v4/service40,GlobalTrust CA,4096,TLS1.3
+CERT-1784,02/04/2024,23/12/2024,active,,/api/v5/service27,NetSecure CA,2048,TLS1.3
+CERT-1785,29/04/2024,20/01/2025,revoked,12/11/2024,/api/v2/service13,GlobalTrust CA,4096,TLS1.3
+CERT-1786,01/02/2024,20/07/2025,revoked,15/06/2025,/api/v1/service49,PrimeCA,2048,TLS1.2
+CERT-1787,17/05/2024,01/12/2024,revoked,09/11/2024,/api/v3/service19,SecureSign CA,2048,TLS1.3
+CERT-1788,06/07/2024,30/04/2026,active,,/api/v4/service36,SecureSign CA,4096,TLS1.3
+CERT-1789,25/04/2024,08/02/2025,revoked,30/12/2024,/api/v4/service9,GlobalTrust CA,4096,TLS1.2
+CERT-1790,21/03/2024,28/11/2025,revoked,06/11/2025,/api/v2/service8,NetSecure CA,3072,TLS1.2
+CERT-1791,22/03/2024,25/01/2025,revoked,24/01/2025,/api/v4/service30,SecureSign CA,2048,TLS1.3
+CERT-1792,08/01/2024,04/10/2024,active,,/api/v5/service14,UniCA,4096,TLS1.3
+CERT-1793,25/04/2024,22/06/2025,revoked,22/04/2025,/api/v3/service48,PrimeCA,2048,TLS1.2
+CERT-1794,09/05/2024,23/12/2025,active,,/api/v3/service23,SecureSign CA,2048,TLS1.3
+CERT-1795,06/05/2024,13/10/2025,revoked,05/09/2025,/api/v3/service9,PrimeCA,2048,TLS1.3
+CERT-1796,05/07/2024,26/01/2026,active,,/api/v1/service30,GlobalTrust CA,4096,TLS1.3
+CERT-1797,09/02/2024,20/12/2025,revoked,12/11/2025,/api/v3/service39,GlobalTrust CA,4096,TLS1.3
+CERT-1798,07/01/2024,28/12/2025,revoked,17/11/2025,/api/v5/service50,GlobalTrust CA,4096,TLS1.3
+CERT-1799,18/02/2024,02/08/2025,revoked,29/06/2025,/api/v1/service43,NetSecure CA,3072,TLS1.3
+CERT-1800,05/01/2024,14/01/2025,revoked,18/10/2024,/api/v4/service3,PrimeCA,3072,TLS1.2
+CERT-1801,15/03/2024,15/12/2024,revoked,10/10/2024,/api/v1/service9,SecureSign CA,4096,TLS1.3
+CERT-1802,10/03/2024,13/09/2025,revoked,04/09/2025,/api/v4/service4,SecureSign CA,3072,TLS1.3
+CERT-1803,08/05/2024,21/02/2026,revoked,24/11/2025,/api/v4/service30,PrimeCA,3072,TLS1.3
+CERT-1804,02/06/2024,11/01/2026,revoked,21/11/2025,/api/v5/service35,PrimeCA,4096,TLS1.2
+CERT-1805,28/01/2024,11/08/2024,revoked,30/06/2024,/api/v4/service34,NetSecure CA,4096,TLS1.2
+CERT-1806,22/02/2024,31/12/2024,revoked,20/10/2024,/api/v2/service39,NetSecure CA,3072,TLS1.3
+CERT-1807,12/04/2024,29/10/2025,revoked,10/09/2025,/api/v5/service7,UniCA,3072,TLS1.3
+CERT-1808,16/01/2024,30/07/2024,active,,/api/v4/service27,GlobalTrust CA,3072,TLS1.2
+CERT-1809,19/06/2024,02/10/2025,revoked,05/07/2025,/api/v3/service22,NetSecure CA,4096,TLS1.2
+CERT-1810,16/01/2024,26/09/2024,revoked,18/08/2024,/api/v4/service38,PrimeCA,4096,TLS1.3
+CERT-1811,23/01/2024,10/10/2025,revoked,31/08/2025,/api/v1/service47,UniCA,2048,TLS1.3
+CERT-1812,07/01/2024,02/07/2025,active,,/api/v4/service26,SecureSign CA,4096,TLS1.2
+CERT-1813,23/06/2024,26/04/2026,active,,/api/v3/service16,PrimeCA,4096,TLS1.2
+CERT-1814,26/06/2024,15/01/2025,revoked,15/11/2024,/api/v2/service30,SecureSign CA,4096,TLS1.3
+CERT-1815,15/05/2024,22/02/2026,active,,/api/v4/service46,GlobalTrust CA,3072,TLS1.2
+CERT-1816,21/05/2024,31/05/2025,revoked,27/05/2025,/api/v3/service11,NetSecure CA,4096,TLS1.2
+CERT-1817,04/06/2024,04/04/2025,revoked,05/03/2025,/api/v4/service26,UniCA,3072,TLS1.2
+CERT-1818,24/02/2024,29/09/2024,revoked,13/08/2024,/api/v3/service47,GlobalTrust CA,2048,TLS1.3
+CERT-1819,10/04/2024,29/01/2026,revoked,03/12/2025,/api/v2/service15,NetSecure CA,2048,TLS1.3
+CERT-1820,06/04/2024,10/06/2025,revoked,06/04/2025,/api/v1/service24,UniCA,3072,TLS1.3
+CERT-1821,10/02/2024,20/01/2025,revoked,10/11/2024,/api/v2/service12,UniCA,2048,TLS1.2
+CERT-1822,17/04/2024,06/06/2025,active,,/api/v3/service18,SecureSign CA,3072,TLS1.2
+CERT-1823,21/03/2024,09/01/2025,revoked,02/01/2025,/api/v2/service27,GlobalTrust CA,3072,TLS1.2
+CERT-1824,23/06/2024,28/09/2025,active,,/api/v4/service35,PrimeCA,2048,TLS1.3
+CERT-1825,03/02/2024,23/06/2025,active,,/api/v1/service14,SecureSign CA,2048,TLS1.2
+CERT-1826,12/01/2024,31/12/2025,active,,/api/v1/service40,SecureSign CA,3072,TLS1.3
+CERT-1827,16/05/2024,05/05/2026,revoked,10/02/2026,/api/v1/service19,NetSecure CA,4096,TLS1.2
+CERT-1828,24/04/2024,30/10/2025,revoked,02/09/2025,/api/v1/service35,GlobalTrust CA,3072,TLS1.3
+CERT-1829,04/02/2024,09/02/2025,active,,/api/v2/service34,UniCA,3072,TLS1.2
+CERT-1830,10/02/2024,25/08/2024,active,,/api/v3/service16,PrimeCA,2048,TLS1.3
+CERT-1831,05/04/2024,31/05/2025,active,,/api/v3/service19,GlobalTrust CA,4096,TLS1.3
+CERT-1832,31/01/2024,25/06/2025,revoked,06/06/2025,/api/v5/service50,SecureSign CA,3072,TLS1.2
+CERT-1833,02/07/2024,14/03/2025,active,,/api/v5/service27,UniCA,3072,TLS1.3
+CERT-1834,10/02/2024,29/04/2025,revoked,01/03/2025,/api/v2/service6,SecureSign CA,2048,TLS1.3
+CERT-1835,28/01/2024,31/08/2024,active,,/api/v4/service9,NetSecure CA,2048,TLS1.3
+CERT-1836,08/05/2024,07/03/2026,revoked,17/12/2025,/api/v1/service13,PrimeCA,3072,TLS1.2
+CERT-1837,27/02/2024,08/07/2025,revoked,06/06/2025,/api/v3/service12,UniCA,4096,TLS1.3
+CERT-1838,06/01/2024,05/09/2025,active,,/api/v2/service6,PrimeCA,2048,TLS1.3
+CERT-1839,11/01/2024,16/05/2025,revoked,24/04/2025,/api/v1/service34,PrimeCA,4096,TLS1.2
+CERT-1840,16/06/2024,02/11/2025,revoked,10/08/2025,/api/v4/service17,PrimeCA,4096,TLS1.2
+CERT-1841,04/02/2024,31/03/2025,revoked,12/03/2025,/api/v3/service25,NetSecure CA,3072,TLS1.3
+CERT-1842,07/05/2024,12/04/2026,active,,/api/v2/service32,SecureSign CA,4096,TLS1.3
+CERT-1843,03/03/2024,10/06/2025,active,,/api/v5/service48,GlobalTrust CA,4096,TLS1.3
+CERT-1844,30/06/2024,05/02/2025,revoked,05/12/2024,/api/v4/service28,NetSecure CA,4096,TLS1.3
+CERT-1845,04/05/2024,29/07/2025,revoked,15/06/2025,/api/v1/service32,SecureSign CA,4096,TLS1.3
+CERT-1846,12/07/2024,04/09/2025,revoked,20/08/2025,/api/v3/service5,PrimeCA,4096,TLS1.3
+CERT-1847,17/04/2024,30/03/2026,active,,/api/v2/service48,GlobalTrust CA,3072,TLS1.3
+CERT-1848,02/01/2024,22/03/2025,revoked,26/01/2025,/api/v4/service33,SecureSign CA,3072,TLS1.3
+CERT-1849,08/01/2024,29/06/2025,active,,/api/v3/service2,NetSecure CA,2048,TLS1.3
+CERT-1850,02/07/2024,19/09/2025,revoked,09/08/2025,/api/v4/service34,SecureSign CA,2048,TLS1.3
+CERT-1851,04/04/2024,26/01/2026,revoked,04/12/2025,/api/v1/service3,SecureSign CA,4096,TLS1.3
+CERT-1852,03/02/2024,20/09/2025,revoked,22/07/2025,/api/v1/service1,UniCA,3072,TLS1.3
+CERT-1853,11/07/2024,17/03/2026,revoked,12/01/2026,/api/v3/service11,UniCA,4096,TLS1.3
+CERT-1854,24/05/2024,22/01/2026,active,,/api/v5/service33,UniCA,4096,TLS1.2
+CERT-1855,12/05/2024,08/04/2025,active,,/api/v5/service19,PrimeCA,3072,TLS1.3
+CERT-1856,07/05/2024,14/10/2025,revoked,13/08/2025,/api/v5/service30,GlobalTrust CA,2048,TLS1.3
+CERT-1857,20/04/2024,11/09/2025,revoked,28/08/2025,/api/v3/service29,NetSecure CA,3072,TLS1.3
+CERT-1858,11/04/2024,05/02/2026,revoked,27/01/2026,/api/v1/service28,UniCA,2048,TLS1.3
+CERT-1859,23/02/2024,18/02/2025,revoked,29/12/2024,/api/v2/service25,SecureSign CA,4096,TLS1.2
+CERT-1860,28/06/2024,13/05/2026,revoked,21/02/2026,/api/v4/service30,PrimeCA,2048,TLS1.3
+CERT-1861,22/02/2024,12/01/2025,active,,/api/v4/service1,UniCA,4096,TLS1.2
+CERT-1862,25/05/2024,21/12/2024,active,,/api/v5/service35,UniCA,3072,TLS1.2
+CERT-1863,07/06/2024,23/01/2025,revoked,01/11/2024,/api/v1/service48,SecureSign CA,3072,TLS1.2
+CERT-1864,10/01/2024,26/11/2024,active,,/api/v4/service32,PrimeCA,4096,TLS1.2
+CERT-1865,11/01/2024,10/06/2025,revoked,09/05/2025,/api/v3/service44,UniCA,3072,TLS1.3
+CERT-1866,31/01/2024,27/11/2025,active,,/api/v2/service30,PrimeCA,3072,TLS1.3
+CERT-1867,11/03/2024,10/08/2025,revoked,13/05/2025,/api/v5/service48,UniCA,3072,TLS1.2
+CERT-1868,29/02/2024,25/10/2024,active,,/api/v3/service42,SecureSign CA,3072,TLS1.3
+CERT-1869,20/05/2024,13/09/2025,active,,/api/v3/service24,SecureSign CA,4096,TLS1.2
+CERT-1870,31/01/2024,16/11/2024,active,,/api/v5/service48,UniCA,3072,TLS1.2
+CERT-1871,10/07/2024,14/02/2025,revoked,14/01/2025,/api/v5/service16,UniCA,2048,TLS1.3
+CERT-1872,08/07/2024,12/05/2026,active,,/api/v3/service40,SecureSign CA,3072,TLS1.2
+CERT-1873,18/01/2024,10/10/2025,active,,/api/v4/service23,SecureSign CA,2048,TLS1.3
+CERT-1874,06/06/2024,07/04/2026,active,,/api/v3/service23,PrimeCA,4096,TLS1.3
+CERT-1875,07/06/2024,29/07/2025,revoked,21/05/2025,/api/v1/service20,PrimeCA,4096,TLS1.2
+CERT-1876,18/01/2024,16/10/2024,active,,/api/v4/service28,SecureSign CA,4096,TLS1.2
+CERT-1877,20/03/2024,04/10/2025,revoked,05/08/2025,/api/v4/service32,GlobalTrust CA,3072,TLS1.3
+CERT-1878,24/04/2024,16/08/2025,active,,/api/v1/service27,SecureSign CA,4096,TLS1.3
+CERT-1879,11/03/2024,13/08/2025,revoked,06/08/2025,/api/v3/service49,NetSecure CA,3072,TLS1.2
+CERT-1880,10/05/2024,11/09/2025,revoked,22/08/2025,/api/v5/service47,NetSecure CA,4096,TLS1.2
+CERT-1881,19/01/2024,07/01/2025,active,,/api/v5/service7,GlobalTrust CA,3072,TLS1.2
+CERT-1882,18/03/2024,31/07/2025,revoked,14/05/2025,/api/v1/service9,NetSecure CA,3072,TLS1.2
+CERT-1883,05/03/2024,10/02/2026,revoked,07/02/2026,/api/v4/service15,GlobalTrust CA,4096,TLS1.2
+CERT-1884,03/06/2024,13/03/2025,revoked,26/12/2024,/api/v3/service31,PrimeCA,3072,TLS1.3
+CERT-1885,16/04/2024,18/01/2025,active,,/api/v2/service37,NetSecure CA,3072,TLS1.3
+CERT-1886,17/02/2024,20/10/2025,active,,/api/v1/service31,GlobalTrust CA,2048,TLS1.2
+CERT-1887,06/01/2024,30/04/2025,revoked,10/03/2025,/api/v5/service20,UniCA,4096,TLS1.2
+CERT-1888,11/07/2024,12/09/2025,active,,/api/v1/service10,SecureSign CA,4096,TLS1.2
+CERT-1889,08/01/2024,25/03/2025,revoked,23/02/2025,/api/v1/service12,UniCA,4096,TLS1.3
+CERT-1890,05/06/2024,06/10/2025,active,,/api/v2/service30,GlobalTrust CA,4096,TLS1.3
+CERT-1891,14/03/2024,05/04/2025,active,,/api/v3/service38,GlobalTrust CA,3072,TLS1.2
+CERT-1892,26/05/2024,11/04/2026,revoked,02/02/2026,/api/v2/service18,PrimeCA,4096,TLS1.2
+CERT-1893,18/01/2024,20/09/2024,revoked,18/09/2024,/api/v2/service22,NetSecure CA,4096,TLS1.3
+CERT-1894,23/02/2024,15/07/2025,revoked,28/06/2025,/api/v3/service4,UniCA,4096,TLS1.2
+CERT-1895,22/06/2024,18/08/2025,revoked,01/06/2025,/api/v4/service13,PrimeCA,3072,TLS1.3
+CERT-1896,10/03/2024,08/05/2025,revoked,09/02/2025,/api/v4/service41,UniCA,3072,TLS1.2
+CERT-1897,06/06/2024,22/05/2026,active,,/api/v1/service35,UniCA,2048,TLS1.2
+CERT-1898,15/01/2024,02/10/2024,active,,/api/v2/service13,SecureSign CA,3072,TLS1.3
+CERT-1899,13/02/2024,31/03/2025,active,,/api/v5/service1,NetSecure CA,2048,TLS1.2
+CERT-1900,04/02/2024,07/07/2025,active,,/api/v1/service13,SecureSign CA,3072,TLS1.3
+CERT-1901,27/04/2024,08/06/2025,active,,/api/v4/service50,PrimeCA,4096,TLS1.3
+CERT-1902,04/01/2024,19/03/2025,active,,/api/v1/service43,SecureSign CA,2048,TLS1.2
+CERT-1903,04/03/2024,27/12/2024,revoked,14/12/2024,/api/v2/service43,PrimeCA,4096,TLS1.2
+CERT-1904,09/04/2024,07/12/2025,revoked,06/10/2025,/api/v4/service46,SecureSign CA,3072,TLS1.2
+CERT-1905,08/04/2024,18/12/2024,active,,/api/v2/service50,PrimeCA,4096,TLS1.2
+CERT-1906,03/03/2024,21/12/2025,revoked,31/10/2025,/api/v1/service49,PrimeCA,2048,TLS1.3
+CERT-1907,05/02/2024,19/11/2024,revoked,27/08/2024,/api/v5/service35,NetSecure CA,3072,TLS1.2
+CERT-1908,09/07/2024,07/05/2025,active,,/api/v4/service39,SecureSign CA,2048,TLS1.3
+CERT-1909,15/06/2024,24/05/2026,active,,/api/v1/service30,GlobalTrust CA,3072,TLS1.2
+CERT-1910,05/06/2024,16/08/2025,revoked,13/06/2025,/api/v1/service1,NetSecure CA,3072,TLS1.3
+CERT-1911,20/01/2024,19/06/2025,revoked,01/06/2025,/api/v2/service50,UniCA,2048,TLS1.3
+CERT-1912,18/07/2024,13/05/2026,active,,/api/v4/service6,NetSecure CA,2048,TLS1.3
+CERT-1913,04/04/2024,08/12/2025,revoked,19/10/2025,/api/v4/service23,SecureSign CA,4096,TLS1.3
+CERT-1914,29/01/2024,21/06/2025,revoked,15/04/2025,/api/v2/service40,PrimeCA,2048,TLS1.2
+CERT-1915,23/05/2024,28/07/2025,active,,/api/v2/service17,GlobalTrust CA,2048,TLS1.2
+CERT-1916,22/05/2024,10/12/2024,active,,/api/v1/service28,GlobalTrust CA,4096,TLS1.3
+CERT-1917,21/01/2024,14/05/2025,active,,/api/v2/service42,GlobalTrust CA,4096,TLS1.3
+CERT-1918,01/05/2024,20/01/2025,active,,/api/v4/service14,UniCA,4096,TLS1.3
+CERT-1919,02/02/2024,08/01/2025,revoked,08/11/2024,/api/v3/service31,GlobalTrust CA,3072,TLS1.3
+CERT-1920,17/01/2024,22/10/2025,revoked,23/08/2025,/api/v3/service38,SecureSign CA,2048,TLS1.2
+CERT-1921,28/01/2024,10/07/2025,revoked,16/05/2025,/api/v1/service28,SecureSign CA,4096,TLS1.2
+CERT-1922,09/07/2024,22/11/2025,active,,/api/v5/service42,PrimeCA,3072,TLS1.3
+CERT-1923,19/02/2024,08/01/2026,revoked,15/12/2025,/api/v2/service46,SecureSign CA,4096,TLS1.2
+CERT-1924,22/05/2024,21/12/2024,revoked,11/11/2024,/api/v3/service6,GlobalTrust CA,3072,TLS1.3
+CERT-1925,05/06/2024,01/11/2025,active,,/api/v1/service14,PrimeCA,3072,TLS1.3
+CERT-1926,13/02/2024,17/09/2025,revoked,07/09/2025,/api/v4/service12,SecureSign CA,3072,TLS1.3
+CERT-1927,07/07/2024,11/08/2025,revoked,18/05/2025,/api/v4/service25,UniCA,3072,TLS1.3
+CERT-1928,05/06/2024,12/02/2026,revoked,20/11/2025,/api/v3/service12,PrimeCA,3072,TLS1.2
+CERT-1929,16/01/2024,29/09/2024,revoked,24/08/2024,/api/v4/service21,GlobalTrust CA,3072,TLS1.2
+CERT-1930,05/02/2024,12/08/2024,active,,/api/v3/service15,UniCA,3072,TLS1.2
+CERT-1931,19/04/2024,10/01/2026,revoked,28/12/2025,/api/v2/service28,GlobalTrust CA,3072,TLS1.2
+CERT-1932,06/07/2024,23/02/2025,revoked,22/01/2025,/api/v3/service37,GlobalTrust CA,3072,TLS1.2
+CERT-1933,29/03/2024,06/04/2025,revoked,03/02/2025,/api/v4/service49,GlobalTrust CA,4096,TLS1.3
+CERT-1934,16/07/2024,07/08/2025,active,,/api/v4/service37,GlobalTrust CA,2048,TLS1.3
+CERT-1935,28/01/2024,03/01/2025,active,,/api/v1/service30,SecureSign CA,4096,TLS1.3
+CERT-1936,04/05/2024,06/08/2025,active,,/api/v4/service20,NetSecure CA,4096,TLS1.3
+CERT-1937,10/05/2024,19/02/2025,revoked,05/02/2025,/api/v3/service29,NetSecure CA,2048,TLS1.3
+CERT-1938,18/03/2024,21/01/2025,revoked,11/12/2024,/api/v3/service18,SecureSign CA,4096,TLS1.2
+CERT-1939,06/03/2024,04/03/2026,active,,/api/v4/service17,SecureSign CA,2048,TLS1.3
+CERT-1940,02/02/2024,18/11/2024,revoked,25/09/2024,/api/v3/service10,GlobalTrust CA,3072,TLS1.3
+CERT-1941,14/07/2024,08/06/2025,active,,/api/v3/service31,SecureSign CA,4096,TLS1.2
+CERT-1942,13/04/2024,19/02/2026,active,,/api/v5/service2,NetSecure CA,3072,TLS1.2
+CERT-1943,03/07/2024,26/06/2025,active,,/api/v2/service3,PrimeCA,3072,TLS1.3
+CERT-1944,15/02/2024,06/01/2026,revoked,16/11/2025,/api/v2/service33,NetSecure CA,2048,TLS1.2
+CERT-1945,04/02/2024,28/09/2025,active,,/api/v3/service49,UniCA,3072,TLS1.2
+CERT-1946,04/01/2024,03/08/2025,active,,/api/v3/service16,PrimeCA,2048,TLS1.2
+CERT-1947,29/05/2024,19/07/2025,active,,/api/v5/service4,SecureSign CA,4096,TLS1.3
+CERT-1948,07/05/2024,01/01/2026,revoked,13/10/2025,/api/v1/service30,GlobalTrust CA,4096,TLS1.2
+CERT-1949,10/01/2024,07/08/2024,revoked,09/07/2024,/api/v3/service38,SecureSign CA,3072,TLS1.3
+CERT-1950,23/05/2024,05/05/2026,revoked,09/04/2026,/api/v5/service40,UniCA,4096,TLS1.3
+CERT-1951,15/06/2024,02/04/2026,revoked,18/02/2026,/api/v3/service32,GlobalTrust CA,4096,TLS1.3
+CERT-1952,10/02/2024,02/02/2025,active,,/api/v5/service32,PrimeCA,2048,TLS1.2
+CERT-1953,20/05/2024,26/12/2025,revoked,13/11/2025,/api/v1/service43,UniCA,3072,TLS1.2
+CERT-1954,16/01/2024,16/06/2025,revoked,17/04/2025,/api/v2/service19,PrimeCA,2048,TLS1.2
+CERT-1955,03/03/2024,15/07/2025,revoked,13/06/2025,/api/v2/service43,PrimeCA,3072,TLS1.3
+CERT-1956,24/04/2024,05/03/2025,active,,/api/v3/service35,GlobalTrust CA,3072,TLS1.3
+CERT-1957,27/01/2024,24/02/2025,revoked,19/02/2025,/api/v3/service28,SecureSign CA,2048,TLS1.3
+CERT-1958,13/07/2024,21/05/2025,revoked,04/05/2025,/api/v3/service18,PrimeCA,3072,TLS1.3
+CERT-1959,10/07/2024,11/03/2026,revoked,03/02/2026,/api/v2/service27,PrimeCA,4096,TLS1.3
+CERT-1960,05/07/2024,14/09/2025,active,,/api/v1/service48,SecureSign CA,4096,TLS1.2
+CERT-1961,13/03/2024,07/06/2025,revoked,28/03/2025,/api/v4/service5,UniCA,3072,TLS1.3
+CERT-1962,05/07/2024,05/01/2025,active,,/api/v4/service42,SecureSign CA,2048,TLS1.3
+CERT-1963,21/03/2024,28/09/2025,revoked,07/09/2025,/api/v1/service45,SecureSign CA,2048,TLS1.3
+CERT-1964,20/03/2024,14/11/2024,revoked,29/08/2024,/api/v4/service1,SecureSign CA,2048,TLS1.3
+CERT-1965,02/04/2024,29/09/2024,revoked,22/07/2024,/api/v1/service29,PrimeCA,3072,TLS1.3
+CERT-1966,30/05/2024,05/04/2026,revoked,05/02/2026,/api/v1/service29,GlobalTrust CA,4096,TLS1.3
+CERT-1967,09/04/2024,30/06/2025,revoked,09/06/2025,/api/v5/service24,SecureSign CA,3072,TLS1.2
+CERT-1968,13/03/2024,27/12/2025,active,,/api/v5/service1,PrimeCA,3072,TLS1.3
+CERT-1969,02/01/2024,05/04/2025,active,,/api/v3/service35,NetSecure CA,3072,TLS1.2
+CERT-1970,30/06/2024,29/07/2025,active,,/api/v3/service49,GlobalTrust CA,3072,TLS1.3
+CERT-1971,25/05/2024,30/05/2025,active,,/api/v1/service32,UniCA,3072,TLS1.2
+CERT-1972,12/02/2024,11/05/2025,active,,/api/v4/service27,UniCA,3072,TLS1.2
+CERT-1973,07/01/2024,05/05/2025,revoked,21/02/2025,/api/v4/service21,UniCA,3072,TLS1.3
+CERT-1974,14/07/2024,11/06/2026,active,,/api/v4/service35,SecureSign CA,4096,TLS1.3
+CERT-1975,11/03/2024,28/07/2025,revoked,14/06/2025,/api/v4/service8,UniCA,3072,TLS1.3
+CERT-1976,29/05/2024,28/02/2026,revoked,05/02/2026,/api/v1/service12,GlobalTrust CA,2048,TLS1.2
+CERT-1977,05/01/2024,18/09/2024,revoked,10/07/2024,/api/v4/service30,NetSecure CA,3072,TLS1.2
+CERT-1978,23/03/2024,07/03/2025,revoked,04/01/2025,/api/v4/service48,GlobalTrust CA,4096,TLS1.3
+CERT-1979,10/06/2024,09/06/2026,revoked,01/06/2026,/api/v2/service43,GlobalTrust CA,4096,TLS1.2
+CERT-1980,22/06/2024,10/01/2026,revoked,31/10/2025,/api/v2/service50,PrimeCA,3072,TLS1.3
+CERT-1981,08/03/2024,18/10/2024,active,,/api/v5/service44,UniCA,3072,TLS1.2
+CERT-1982,29/06/2024,26/10/2025,revoked,01/10/2025,/api/v3/service3,GlobalTrust CA,2048,TLS1.2
+CERT-1983,03/07/2024,19/09/2025,revoked,24/06/2025,/api/v4/service14,NetSecure CA,4096,TLS1.3
+CERT-1984,11/02/2024,15/12/2025,revoked,28/09/2025,/api/v1/service35,UniCA,4096,TLS1.2
+CERT-1985,25/06/2024,23/06/2025,revoked,17/05/2025,/api/v5/service20,UniCA,3072,TLS1.3
+CERT-1986,16/03/2024,31/10/2025,revoked,07/09/2025,/api/v1/service40,NetSecure CA,2048,TLS1.2
+CERT-1987,25/04/2024,16/12/2025,active,,/api/v1/service26,SecureSign CA,4096,TLS1.3
+CERT-1988,02/03/2024,10/01/2026,active,,/api/v2/service34,GlobalTrust CA,3072,TLS1.3
+CERT-1989,14/01/2024,17/10/2025,revoked,31/08/2025,/api/v2/service14,UniCA,2048,TLS1.3
+CERT-1990,07/03/2024,10/11/2024,active,,/api/v1/service48,SecureSign CA,2048,TLS1.3
+CERT-1991,23/01/2024,16/08/2025,active,,/api/v5/service46,NetSecure CA,4096,TLS1.3
+CERT-1992,26/03/2024,11/07/2025,revoked,26/04/2025,/api/v4/service50,PrimeCA,3072,TLS1.3
+CERT-1993,07/01/2024,09/01/2025,revoked,07/11/2024,/api/v2/service17,UniCA,3072,TLS1.2
+CERT-1994,18/05/2024,15/09/2025,active,,/api/v1/service46,UniCA,4096,TLS1.3
+CERT-1995,22/03/2024,08/12/2025,active,,/api/v4/service26,NetSecure CA,3072,TLS1.3
+CERT-1996,24/05/2024,07/06/2025,revoked,11/05/2025,/api/v5/service50,UniCA,2048,TLS1.2
+CERT-1997,21/02/2024,08/06/2025,revoked,27/12/2024,/api/v2/service15,PrimeCA,2048,TLS1.2
+CERT-1998,12/05/2024,09/06/2025,revoked,06/08/2025,/api/v1/service11,PrimeCA,2048,TLS1.3
+CERT-1999,10/03/2024,10/06/2025,active,,/api/v1/service25,UniCA,4096,TLS1.2
